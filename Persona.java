@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Random;
 
-public class Persona {
+public class Persona {  // adijoaiwjoiadwj
     private int salute;     /*    salute 0 = sano - non contagioso     /verde
                                  salute 1 = asintomatico - contagioso /giallo
                                  salute 2 = sintomatico - contagioso  /rosso
