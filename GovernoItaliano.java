@@ -2,16 +2,16 @@ import java.util.Random;
 
 public class GovernoItaliano extends GovernoBase {
 
-    public GovernoItaliano(int n_incontri, int n_individui, int tampone, int risorse, Virus virus){
-        super(n_incontri, n_individui, tampone, risorse, virus);
+    public GovernoItaliano(int n_incontri, int nIndividui, int tampone, int risorse, Virus virus){
+        super(n_incontri, nIndividui, tampone, risorse, virus);
     }
 
     @Override
     public void strategia_governo() {
-        if (quarantena.size() > n_individui/1000){
+        if (quarantena.size() > nIndividui/1000){
             allertato = true;
         }
-        if(quarantena.size() < n_individui/100){
+        if(quarantena.size() < nIndividui/100){
             System.out.println("NON SONO ALLERTATO");
             allertato = false;
         }

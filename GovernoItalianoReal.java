@@ -4,15 +4,15 @@ public class GovernoItalianoReal extends GovernoBase {
     boolean ridotto;
     int giorniAllerta = 5;
 
-    public GovernoItalianoReal(int n_incontri, int n_individui, int tampone, int risorse, Virus virus){
-        super(n_incontri, n_individui, tampone, risorse, virus);
+    public GovernoItalianoReal(int nIncontri, int nIndividui, int tampone, int risorse, Virus virus){
+        super(nIncontri, nIndividui, tampone, risorse, virus);
     }
 
 
 
     @Override
     public void strategia_governo() {
-        if(cimitero.size() >= n_individui * 10 / 100) {
+        if(cimitero.size() >= nIndividui * 10 / 100) {
             allertato = true;
         }
 
@@ -44,7 +44,7 @@ public class GovernoItalianoReal extends GovernoBase {
             // ridurre il numero di incontri se la quarantena aumenta
             if(quarantena.size() >= popolo.size() * 5 / 100 && !ridotto) {
                 ridotto = true;
-                n_incontri /= 2;
+                nIncontri /= 2;
             }
 
             System.out.println("sono allertato! SUGAR RUSH!");

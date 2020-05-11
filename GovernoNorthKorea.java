@@ -13,8 +13,8 @@ public class GovernoNorthKorea extends GovernoBase {
     dopo il cambio di stato)
     */
 
-    public GovernoNorthKorea(int n_incontri, int n_individui, int tampone, int risorse, Virus virus){
-        super(n_incontri, n_individui, tampone, risorse, virus);
+    public GovernoNorthKorea(int nIncontri, int nIndividui, int tampone, int risorse, Virus virus){
+        super(nIncontri, nIndividui, tampone, risorse, virus);
     }
 
     @Override
@@ -22,7 +22,7 @@ public class GovernoNorthKorea extends GovernoBase {
         /*
         questo governo ha la sfera di cristallo e sa esattamente chi è infetto e dopo provvede a metterlo in quarantena.
          */
-        if(quarantena.size() > n_individui/50){
+        if(quarantena.size() > nIndividui/50){
             allertato = true;
         }
 

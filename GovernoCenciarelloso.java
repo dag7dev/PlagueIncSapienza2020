@@ -10,15 +10,15 @@ public class GovernoCenciarelloso extends GovernoBase {
     int giorniAllerta = 0;
     HashSet<Persona> tracciati = new HashSet<>();
 
-    public GovernoCenciarelloso(int n_incontri, int n_individui, int tampone, int risorse, Virus virus) {
-        super(n_incontri, n_individui, tampone, risorse, virus);
+    public GovernoCenciarelloso(int nIncontri, int nIndividui, int tampone, int risorse, Virus virus) {
+        super(nIncontri, nIndividui, tampone, risorse, virus);
     }
 
 
     @Override
     public void strategia_governo() {
         // se muore 1 centesimo delle persone o se smettono di lavorare 1/100 della popolazione
-        if (cimitero.size() > n_individui / 100 || quarantena.size() > n_individui / 100) {     //si allerta a causa del cimitero alla fine
+        if (cimitero.size() > nIndividui / 100 || quarantena.size() > nIndividui / 100) {     //si allerta a causa del cimitero alla fine
             allertato = true;
             System.out.println("Sono allertato");
         }
@@ -51,7 +51,7 @@ public class GovernoCenciarelloso extends GovernoBase {
 
     private void prefase() {         //Le persone si mettono la mascherina (non sempre). Perciò ogni giorno una persona ha il 80% di metterla. Metterla
         if (!incontriPreFase) {       //chi ha la mascherina non contagia ma può essere contagiata.
-            n_incontri /= 2;
+            nIncontri /= 2;
             incontriPreFase = true;
         }
 
@@ -76,7 +76,7 @@ public class GovernoCenciarelloso extends GovernoBase {
             // (?) TODO: rimpiazzare quarantenaautomatizzata con fase1
             quarantenaAutomatizzata = false;
 
-            n_incontri /= 75;   // numero abbastanza arbitrario che fa abbattere num incontri
+            nIncontri /= 75;   // numero abbastanza arbitrario che fa abbattere num incontri
 
             // voglio mettere un decimo della popolazione iniziale
             // in quarantena
@@ -90,7 +90,7 @@ public class GovernoCenciarelloso extends GovernoBase {
         } else {
             // prendo un decimill della popolazione e fagli il tampone
             // il +1 ti serve per evitare problemi es. governi troppo piccoli
-            for (int i = 0; i < (n_individui / 10000) + 1; i++) {
+            for (int i = 0; i < (nIndividui / 10000) + 1; i++) {
                 reference = popolo.get(random.nextInt(popolo.size()));
                 if (tampone(reference) && !ambulanza.contains(reference)) {
                     ambulanza.add(reference);
@@ -110,10 +110,10 @@ public class GovernoCenciarelloso extends GovernoBase {
             fase1 = false;
             fase2 = true;
             fase2Init = true;
-            n_incontri = n_incontri + (n_incontri * 15 / 100);
+            nIncontri = nIncontri + (nIncontri * 15 / 100);
         }
 
-        n_incontri += 1;    // ogni giorno si possono incontrare piu persone
+        nIncontri += 1;    // ogni giorno si possono incontrare piu persone
 
         // il primo for serve per fare il tampone a 1000 persone casuali
         // in quarantena: tutte le persone meno i morti
@@ -128,7 +128,7 @@ public class GovernoCenciarelloso extends GovernoBase {
         }
 
         // fare un millesimo delle persone a caso
-        for (int i = 0; i < (n_individui / 10000) + 1; i++) {
+        for (int i = 0; i < (nIndividui / 10000) + 1; i++) {
             reference = popolo.get(random.nextInt(popolo.size()));
             if (tampone(reference) && !ambulanza.contains(reference)) {
                 ambulanza.add(reference);
