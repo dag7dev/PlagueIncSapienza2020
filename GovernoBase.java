@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Random;
 
 public class GovernoBase {
-    protected int n_individui;          //la mia popolazione
-    protected int n_incontri;           //quante persone uno incontra al giorno
+    protected int nIndividui;          //la mia popolazione
+    protected int nIncontri;           //quante persone uno incontra al giorno
     protected int costo;                // costo tampone (c)
     protected int risorse;              //r<p*c  risorse<popolazione*costoTampone
     protected int giorni;
@@ -24,9 +24,9 @@ public class GovernoBase {
     protected boolean fase1, fase2;
     protected Random random;
 
-    public GovernoBase(int n_incontri, int n_individui, int tampone, int risorse, Virus virus){
-        this.n_incontri = n_incontri;
-        this.n_individui = n_individui;
+    public GovernoBase(int nIncontri, int n_individui, int tampone, int risorse, Virus virus){
+        this.nIncontri = nIncontri;
+        this.nIndividui = n_individui;
         this.costo = tampone;
         this.risorse = risorse;
         this.virus = virus;
@@ -52,11 +52,12 @@ public class GovernoBase {
     }
 
     private void creazionePopolo() {
-        //aggiungiamo le persone al popolo
-        for (int i = 0; i < n_individui; i++) {
+        // aggiungiamo le persone al popolo
+        for (int i = 0; i < nIndividui; i++) {
             popolo.add(new Persona(virus));
         }
     }
+
     public ArrayList<Persona> incontri(Persona persona) {
         //serve per trovare delle persone random da incontrare messe in un array
         ArrayList<Persona> persone_incontrate = new ArrayList<>();
@@ -65,13 +66,13 @@ public class GovernoBase {
             return persone_incontrate;
         }
 
-        for(int i = 0; i < n_incontri; i++){
+        for(int i = 0; i < nIncontri; i++){
             Persona reference;
             boolean pochiSuperstiti = false;
 
             do {
                 reference = popolo.get(random.nextInt(popolo.size()));    //serve come persona reference (leggi giù)
-                if (popolo.size() -1 <= n_incontri){          //se il popolo ha meno persone degli incontri
+                if (popolo.size() -1 <= nIncontri){          //se il popolo ha meno persone degli incontri
                     for(Persona x: popolo){
                         persone_incontrate.add(x);
                     }
@@ -117,7 +118,7 @@ public class GovernoBase {
         // CASI BASE
         if(risorse <= 0){
             System.out.println("Denaro terminato!");
-            // System.out.println("L'Europa non ci aiuta, l'America non finanzia l'OMS. Abbiamo finito i money!");
+            //System.out.println("L'Europa non ci aiuta, l'America non finanzia l'OMS. Abbiamo finito i money!");
             return new Bollettino(2, cimitero.size(), popolo.size()+ quarantena.size(), risorse);
         }
         if (popolo.size() == 0 && quarantena.size() == 0){
