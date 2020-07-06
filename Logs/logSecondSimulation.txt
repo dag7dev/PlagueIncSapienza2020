@@ -1,0 +1,7241 @@
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 6
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 8
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 36
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+Giorno 5
+RECAP: 
+sono infetti 79
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999979risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 258
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999959risorse
+Giorno 7
+RECAP: 
+sono infetti 680
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999929risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 1934
+Sono vivi in totale 499999
+Sono in quarantena 10
+Sono morti 1
+Sono in movimento 499989
+Ci sono 14999749risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5269
+Sono vivi in totale 499999
+Sono in quarantena 24
+Sono morti 1
+Sono in movimento 499975
+Ci sono 14999389risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 14836
+Sono vivi in totale 499990
+Sono in quarantena 47
+Sono morti 10
+Sono in movimento 499943
+Ci sono 14998429risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 39756
+Sono vivi in totale 499980
+Sono in quarantena 128
+Sono morti 20
+Sono in movimento 499852
+Ci sono 14996009risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 103195
+Sono vivi in totale 499941
+Sono in quarantena 361
+Sono morti 59
+Sono in movimento 499580
+Ci sono 14989409risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 233465
+Sono vivi in totale 499862
+Sono in quarantena 1022
+Sono morti 138
+Sono in movimento 498840
+Ci sono 14971709risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 403839
+Sono vivi in totale 499644
+Sono in quarantena 2841
+Sono morti 356
+Sono in movimento 496803
+Ci sono 14921519risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 489051
+Sono vivi in totale 499052
+Sono in quarantena 7607
+Sono morti 948
+Sono in movimento 491445
+Ci sono 14788079risorse
+siren sound activated
+Giorno 16
+RECAP: 
+sono infetti 487392
+Sono vivi in totale 497398
+Sono in quarantena 19833
+Sono morti 2602
+Sono in movimento 477565
+Ci sono 14441579risorse
+siren sound activated
+Giorno 17
+RECAP: 
+sono infetti 483124
+Sono vivi in totale 493132
+Sono in quarantena 45436
+Sono morti 6868
+Sono in movimento 447696
+Ci sono 13663169risorse
+siren sound activated
+Giorno 18
+RECAP: 
+sono infetti 471975
+Sono vivi in totale 482002
+Sono in quarantena 80510
+Sono morti 17998
+Sono in movimento 401492
+Ci sono 12347069risorse
+siren sound activated
+Giorno 19
+RECAP: 
+sono infetti 449131
+Sono vivi in totale 459191
+Sono in quarantena 96688
+Sono morti 40809
+Sono in movimento 362503
+Ci sono 10872439risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 419150
+Sono vivi in totale 429350
+Sono in quarantena 87249
+Sono morti 70650
+Sono in movimento 342101
+Ci sono 9643109risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 403861
+Sono vivi in totale 414404
+Sono in quarantena 80748
+Sono morti 85596
+Sono in movimento 333656
+Ci sono 8676829risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 402824
+Sono vivi in totale 414404
+Sono in quarantena 82877
+Sono morti 85596
+Sono in movimento 331527
+Ci sono 7822119risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 400081
+Sono vivi in totale 414404
+Sono in quarantena 83496
+Sono morti 85596
+Sono in movimento 330908
+Ci sono 6969579risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 392159
+Sono vivi in totale 414404
+Sono in quarantena 82375
+Sono morti 85596
+Sono in movimento 332029
+Ci sono 6122689risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 371495
+Sono vivi in totale 414404
+Sono in quarantena 78302
+Sono morti 85596
+Sono in movimento 336102
+Ci sono 5293009risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 346981
+Sono vivi in totale 414404
+Sono in quarantena 67423
+Sono morti 85596
+Sono in movimento 346981
+Ci sono 4507149risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 369549
+Sono vivi in totale 414404
+Sono in quarantena 44855
+Sono morti 85596
+Sono in movimento 369549
+Ci sono 3831769risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 257865
+Sono vivi in totale 414404
+Sono in quarantena 14949
+Sono morti 85596
+Sono in movimento 399455
+Ci sono 3382959risorse
+Giorno 29
+RECAP: 
+sono infetti 51896
+Sono vivi in totale 414404
+Sono in quarantena 0
+Sono morti 85596
+Sono in movimento 414404
+Ci sono 3233469risorse
+siren sound activated
+Giorno 30
+RECAP: 
+sono infetti 50937
+Sono vivi in totale 414404
+Sono in quarantena 528
+Sono morti 85596
+Sono in movimento 413876
+Ci sono 3222509risorse
+siren sound activated
+Giorno 31
+RECAP: 
+sono infetti 43480
+Sono vivi in totale 414404
+Sono in quarantena 1823
+Sono morti 85596
+Sono in movimento 412581
+Ci sono 3191149risorse
+siren sound activated
+Giorno 32
+RECAP: 
+sono infetti 40837
+Sono vivi in totale 413877
+Sono in quarantena 2130
+Sono morti 86123
+Sono in movimento 411747
+Ci sono 3159029risorse
+siren sound activated
+Giorno 33
+RECAP: 
+sono infetti 39823
+Sono vivi in totale 412874
+Sono in quarantena 1619
+Sono morti 87126
+Sono in movimento 411255
+Ci sono 3133029risorse
+siren sound activated
+Giorno 34
+RECAP: 
+sono infetti 38821
+Sono vivi in totale 412752
+Sono in quarantena 1636
+Sono morti 87248
+Sono in movimento 411116
+Ci sono 3114619risorse
+siren sound activated
+Giorno 35
+RECAP: 
+sono infetti 38848
+Sono vivi in totale 412740
+Sono in quarantena 1692
+Sono morti 87260
+Sono in movimento 411048
+Ci sono 3096959risorse
+siren sound activated
+Giorno 36
+RECAP: 
+sono infetti 38810
+Sono vivi in totale 412732
+Sono in quarantena 1724
+Sono morti 87268
+Sono in movimento 411008
+Ci sono 3079289risorse
+siren sound activated
+Giorno 37
+RECAP: 
+sono infetti 38636
+Sono vivi in totale 412727
+Sono in quarantena 1746
+Sono morti 87273
+Sono in movimento 410981
+Ci sono 3061589risorse
+siren sound activated
+Giorno 38
+RECAP: 
+sono infetti 38688
+Sono vivi in totale 412719
+Sono in quarantena 1753
+Sono morti 87281
+Sono in movimento 410966
+Ci sono 3043899risorse
+siren sound activated
+Giorno 39
+RECAP: 
+sono infetti 38903
+Sono vivi in totale 412713
+Sono in quarantena 1758
+Sono morti 87287
+Sono in movimento 410955
+Ci sono 3026189risorse
+siren sound activated
+Giorno 40
+RECAP: 
+sono infetti 27097
+Sono vivi in totale 412712
+Sono in quarantena 1199
+Sono morti 87288
+Sono in movimento 411513
+Ci sono 3008429risorse
+siren sound activated
+Giorno 41
+RECAP: 
+sono infetti 4588
+Sono vivi in totale 412709
+Sono in quarantena 166
+Sono morti 87291
+Sono in movimento 412543
+Ci sono 2996319risorse
+siren sound activated
+Giorno 42
+RECAP: 
+sono infetti 1801
+Sono vivi in totale 412703
+Sono in quarantena 57
+Sono morti 87297
+Sono in movimento 412646
+Ci sono 2994579risorse
+siren sound activated
+Giorno 43
+RECAP: 
+sono infetti 1404
+Sono vivi in totale 412702
+Sono in quarantena 53
+Sono morti 87298
+Sono in movimento 412649
+Ci sono 2993889risorse
+siren sound activated
+Giorno 44
+RECAP: 
+sono infetti 1116
+Sono vivi in totale 412701
+Sono in quarantena 45
+Sono morti 87299
+Sono in movimento 412656
+Ci sono 2993279risorse
+Giorno 45
+RECAP: 
+sono infetti 954
+Sono vivi in totale 412698
+Sono in quarantena 35
+Sono morti 87302
+Sono in movimento 412663
+Ci sono 2992779risorse
+siren sound activated
+Giorno 46
+RECAP: 
+sono infetti 874
+Sono vivi in totale 412696
+Sono in quarantena 27
+Sono morti 87304
+Sono in movimento 412669
+Ci sono 2992389risorse
+siren sound activated
+Giorno 47
+RECAP: 
+sono infetti 659
+Sono vivi in totale 412695
+Sono in quarantena 23
+Sono morti 87305
+Sono in movimento 412672
+Ci sono 2992099risorse
+Giorno 48
+RECAP: 
+sono infetti 519
+Sono vivi in totale 412695
+Sono in quarantena 21
+Sono morti 87305
+Sono in movimento 412674
+Ci sono 2991869risorse
+Giorno 49
+RECAP: 
+sono infetti 437
+Sono vivi in totale 412695
+Sono in quarantena 14
+Sono morti 87305
+Sono in movimento 412681
+Ci sono 2991659risorse
+Giorno 50
+RECAP: 
+sono infetti 360
+Sono vivi in totale 412695
+Sono in quarantena 11
+Sono morti 87305
+Sono in movimento 412684
+Ci sono 2991519risorse
+siren sound activated
+Giorno 51
+RECAP: 
+sono infetti 296
+Sono vivi in totale 412695
+Sono in quarantena 8
+Sono morti 87305
+Sono in movimento 412687
+Ci sono 2991399risorse
+Giorno 52
+RECAP: 
+sono infetti 160
+Sono vivi in totale 412695
+Sono in quarantena 4
+Sono morti 87305
+Sono in movimento 412691
+Ci sono 2991319risorse
+Giorno 53
+RECAP: 
+sono infetti 59
+Sono vivi in totale 412695
+Sono in quarantena 2
+Sono morti 87305
+Sono in movimento 412693
+Ci sono 2991279risorse
+Giorno 54
+RECAP: 
+sono infetti 14
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991259risorse
+Giorno 55
+RECAP: 
+sono infetti 22
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991249risorse
+Giorno 56
+RECAP: 
+sono infetti 15
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991239risorse
+Giorno 57
+RECAP: 
+sono infetti 14
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991229risorse
+Giorno 58
+RECAP: 
+sono infetti 11
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991219risorse
+Giorno 59
+RECAP: 
+sono infetti 13
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991209risorse
+Giorno 60
+RECAP: 
+sono infetti 8
+Sono vivi in totale 412695
+Sono in quarantena 1
+Sono morti 87305
+Sono in movimento 412694
+Ci sono 2991199risorse
+Giorno 61
+RECAP: 
+sono infetti 0
+Sono vivi in totale 412695
+Sono in quarantena 0
+Sono morti 87305
+Sono in movimento 412695
+Ci sono 2991189risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 6
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 11
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 37
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+Giorno 5
+RECAP: 
+sono infetti 88
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999979risorse
+Giorno 6
+RECAP: 
+sono infetti 282
+Sono vivi in totale 499999
+Sono in quarantena 0
+Sono morti 1
+Sono in movimento 499999
+Ci sono 14999969risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 728
+Sono vivi in totale 499999
+Sono in quarantena 1
+Sono morti 1
+Sono in movimento 499998
+Ci sono 14999949risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 2129
+Sono vivi in totale 499999
+Sono in quarantena 5
+Sono morti 1
+Sono in movimento 499994
+Ci sono 14999829risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5779
+Sono vivi in totale 499998
+Sono in quarantena 15
+Sono morti 2
+Sono in movimento 499983
+Ci sono 14999529risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 16394
+Sono vivi in totale 499995
+Sono in quarantena 49
+Sono morti 5
+Sono in movimento 499946
+Ci sono 14998559risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 43679
+Sono vivi in totale 499983
+Sono in quarantena 153
+Sono morti 17
+Sono in movimento 499830
+Ci sono 14995969risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 112919
+Sono vivi in totale 499954
+Sono in quarantena 402
+Sono morti 46
+Sono in movimento 499552
+Ci sono 14988989risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 249467
+Sono vivi in totale 499863
+Sono in quarantena 1126
+Sono morti 137
+Sono in movimento 498737
+Ci sono 14969129risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 417766
+Sono vivi in totale 499640
+Sono in quarantena 3281
+Sono morti 360
+Sono in movimento 496359
+Ci sono 14912379risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 490353
+Sono vivi in totale 498966
+Sono in quarantena 8613
+Sono morti 1034
+Sono in movimento 490353
+Ci sono 14763279risorse
+siren sound activated
+Giorno 16
+RECAP: 
+sono infetti 488475
+Sono vivi in totale 497093
+Sono in quarantena 22051
+Sono morti 2907
+Sono in movimento 475042
+Ci sono 14382499risorse
+siren sound activated
+Giorno 17
+RECAP: 
+sono infetti 483692
+Sono vivi in totale 492314
+Sono in quarantena 49156
+Sono morti 7686
+Sono in movimento 443158
+Ci sono 13549379risorse
+siren sound activated
+Giorno 18
+RECAP: 
+sono infetti 471519
+Sono vivi in totale 480164
+Sono in quarantena 83077
+Sono morti 19836
+Sono in movimento 397087
+Ci sono 12195459risorse
+siren sound activated
+Giorno 19
+RECAP: 
+sono infetti 447590
+Sono vivi in totale 456274
+Sono in quarantena 96618
+Sono morti 43726
+Sono in movimento 359656
+Ci sono 10738639risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 418049
+Sono vivi in totale 426899
+Sono in quarantena 86457
+Sono morti 73101
+Sono in movimento 340442
+Ci sono 9534089risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 404888
+Sono vivi in totale 414093
+Sono in quarantena 81100
+Sono morti 85907
+Sono in movimento 332993
+Ci sono 8582049risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 403710
+Sono vivi in totale 414093
+Sono in quarantena 83017
+Sono morti 85907
+Sono in movimento 331076
+Ci sono 7727129risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 400733
+Sono vivi in totale 414093
+Sono in quarantena 83452
+Sono morti 85907
+Sono in movimento 330641
+Ci sono 6874519risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 391988
+Sono vivi in totale 414093
+Sono in quarantena 82098
+Sono morti 85907
+Sono in movimento 331995
+Ci sono 6028449risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 369470
+Sono vivi in totale 414093
+Sono in quarantena 77591
+Sono morti 85907
+Sono in movimento 336502
+Ci sono 5201859risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 348331
+Sono vivi in totale 414093
+Sono in quarantena 65762
+Sono morti 85907
+Sono in movimento 348331
+Ci sono 4423259risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 372202
+Sono vivi in totale 414093
+Sono in quarantena 41891
+Sono morti 85907
+Sono in movimento 372202
+Ci sono 3764549risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 234504
+Sono vivi in totale 414093
+Sono in quarantena 12667
+Sono morti 85907
+Sono in movimento 401426
+Ci sono 3345359risorse
+Giorno 29
+RECAP: 
+sono infetti 45094
+Sono vivi in totale 414093
+Sono in quarantena 0
+Sono morti 85907
+Sono in movimento 414093
+Ci sono 3218689risorse
+siren sound activated
+Giorno 30
+RECAP: 
+sono infetti 43319
+Sono vivi in totale 414093
+Sono in quarantena 570
+Sono morti 85907
+Sono in movimento 413523
+Ci sono 3207249risorse
+siren sound activated
+Giorno 31
+RECAP: 
+sono infetti 37615
+Sono vivi in totale 414093
+Sono in quarantena 1622
+Sono morti 85907
+Sono in movimento 412471
+Ci sono 3180369risorse
+siren sound activated
+Giorno 32
+RECAP: 
+sono infetti 35112
+Sono vivi in totale 413500
+Sono in quarantena 1753
+Sono morti 86500
+Sono in movimento 411747
+Ci sono 3153219risorse
+siren sound activated
+Giorno 33
+RECAP: 
+sono infetti 33590
+Sono vivi in totale 412758
+Sono in quarantena 1378
+Sono morti 87242
+Sono in movimento 411380
+Ci sono 3132249risorse
+siren sound activated
+Giorno 34
+RECAP: 
+sono infetti 33669
+Sono vivi in totale 412664
+Sono in quarantena 1390
+Sono morti 87336
+Sono in movimento 411274
+Ci sono 3116759risorse
+siren sound activated
+Giorno 35
+RECAP: 
+sono infetti 33614
+Sono vivi in totale 412651
+Sono in quarantena 1416
+Sono morti 87349
+Sono in movimento 411235
+Ci sono 3101979risorse
+siren sound activated
+Giorno 36
+RECAP: 
+sono infetti 33449
+Sono vivi in totale 412642
+Sono in quarantena 1431
+Sono morti 87358
+Sono in movimento 411211
+Ci sono 3087219risorse
+siren sound activated
+Giorno 37
+RECAP: 
+sono infetti 33753
+Sono vivi in totale 412639
+Sono in quarantena 1453
+Sono morti 87361
+Sono in movimento 411186
+Ci sono 3072469risorse
+siren sound activated
+Giorno 38
+RECAP: 
+sono infetti 33866
+Sono vivi in totale 412634
+Sono in quarantena 1460
+Sono morti 87366
+Sono in movimento 411174
+Ci sono 3057719risorse
+siren sound activated
+Giorno 39
+RECAP: 
+sono infetti 33651
+Sono vivi in totale 412630
+Sono in quarantena 1468
+Sono morti 87370
+Sono in movimento 411162
+Ci sono 3042899risorse
+siren sound activated
+Giorno 40
+RECAP: 
+sono infetti 21328
+Sono vivi in totale 412630
+Sono in quarantena 931
+Sono morti 87370
+Sono in movimento 411699
+Ci sono 3028049risorse
+siren sound activated
+Giorno 41
+RECAP: 
+sono infetti 3320
+Sono vivi in totale 412625
+Sono in quarantena 129
+Sono morti 87375
+Sono in movimento 412496
+Ci sono 3018639risorse
+siren sound activated
+Giorno 42
+RECAP: 
+sono infetti 1446
+Sono vivi in totale 412622
+Sono in quarantena 48
+Sono morti 87378
+Sono in movimento 412574
+Ci sono 3017229risorse
+siren sound activated
+Giorno 43
+RECAP: 
+sono infetti 1194
+Sono vivi in totale 412619
+Sono in quarantena 49
+Sono morti 87381
+Sono in movimento 412570
+Ci sono 3016639risorse
+siren sound activated
+Giorno 44
+RECAP: 
+sono infetti 1098
+Sono vivi in totale 412615
+Sono in quarantena 42
+Sono morti 87385
+Sono in movimento 412573
+Ci sono 3016089risorse
+siren sound activated
+Giorno 45
+RECAP: 
+sono infetti 922
+Sono vivi in totale 412611
+Sono in quarantena 36
+Sono morti 87389
+Sono in movimento 412575
+Ci sono 3015639risorse
+siren sound activated
+Giorno 46
+RECAP: 
+sono infetti 785
+Sono vivi in totale 412610
+Sono in quarantena 34
+Sono morti 87390
+Sono in movimento 412576
+Ci sono 3015249risorse
+siren sound activated
+Giorno 47
+RECAP: 
+sono infetti 671
+Sono vivi in totale 412610
+Sono in quarantena 30
+Sono morti 87390
+Sono in movimento 412580
+Ci sono 3014899risorse
+Giorno 48
+RECAP: 
+sono infetti 530
+Sono vivi in totale 412609
+Sono in quarantena 25
+Sono morti 87391
+Sono in movimento 412584
+Ci sono 3014599risorse
+Giorno 49
+RECAP: 
+sono infetti 442
+Sono vivi in totale 412609
+Sono in quarantena 19
+Sono morti 87391
+Sono in movimento 412590
+Ci sono 3014349risorse
+Giorno 50
+RECAP: 
+sono infetti 313
+Sono vivi in totale 412609
+Sono in quarantena 15
+Sono morti 87391
+Sono in movimento 412594
+Ci sono 3014159risorse
+Giorno 51
+RECAP: 
+sono infetti 249
+Sono vivi in totale 412609
+Sono in quarantena 11
+Sono morti 87391
+Sono in movimento 412598
+Ci sono 3014009risorse
+Giorno 52
+RECAP: 
+sono infetti 152
+Sono vivi in totale 412609
+Sono in quarantena 7
+Sono morti 87391
+Sono in movimento 412602
+Ci sono 3013899risorse
+Giorno 53
+RECAP: 
+sono infetti 53
+Sono vivi in totale 412609
+Sono in quarantena 5
+Sono morti 87391
+Sono in movimento 412604
+Ci sono 3013829risorse
+Giorno 54
+RECAP: 
+sono infetti 9
+Sono vivi in totale 412609
+Sono in quarantena 1
+Sono morti 87391
+Sono in movimento 412608
+Ci sono 3013779risorse
+Giorno 55
+RECAP: 
+sono infetti 1
+Sono vivi in totale 412609
+Sono in quarantena 1
+Sono morti 87391
+Sono in movimento 412608
+Ci sono 3013769risorse
+Giorno 56
+RECAP: 
+sono infetti 0
+Sono vivi in totale 412609
+Sono in quarantena 0
+Sono morti 87391
+Sono in movimento 412609
+Ci sono 3013759risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 4
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 12
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 32
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 96
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 6
+RECAP: 
+sono infetti 271
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 757
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 2095
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999899risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5807
+Sono vivi in totale 499999
+Sono in quarantena 15
+Sono morti 1
+Sono in movimento 499984
+Ci sono 14999599risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 16248
+Sono vivi in totale 499997
+Sono in quarantena 52
+Sono morti 3
+Sono in movimento 499945
+Ci sono 14998649risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 43438
+Sono vivi in totale 499984
+Sono in quarantena 150
+Sono morti 16
+Sono in movimento 499834
+Ci sono 14996039risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 111913
+Sono vivi in totale 499952
+Sono in quarantena 412
+Sono morti 48
+Sono in movimento 499540
+Ci sono 14988989risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 248248
+Sono vivi in totale 499866
+Sono in quarantena 1172
+Sono morti 134
+Sono in movimento 498694
+Ci sono 14968999risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 415968
+Sono vivi in totale 499623
+Sono in quarantena 3142
+Sono morti 377
+Sono in movimento 496481
+Ci sono 14914479risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 490612
+Sono vivi in totale 498953
+Sono in quarantena 8341
+Sono morti 1047
+Sono in movimento 490612
+Ci sono 14768789risorse
+siren sound activated
+Giorno 16
+RECAP: 
+sono infetti 488800
+Sono vivi in totale 497144
+Sono in quarantena 21834
+Sono morti 2856
+Sono in movimento 475310
+Ci sono 14391889risorse
+siren sound activated
+Giorno 17
+RECAP: 
+sono infetti 483995
+Sono vivi in totale 492346
+Sono in quarantena 48672
+Sono morti 7654
+Sono in movimento 443674
+Ci sono 13563579risorse
+siren sound activated
+Giorno 18
+RECAP: 
+sono infetti 471873
+Sono vivi in totale 480242
+Sono in quarantena 82539
+Sono morti 19758
+Sono in movimento 397703
+Ci sono 12215899risorse
+siren sound activated
+Giorno 19
+RECAP: 
+sono infetti 447971
+Sono vivi in totale 456391
+Sono in quarantena 96380
+Sono morti 43609
+Sono in movimento 360011
+Ci sono 10754649risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 418653
+Sono vivi in totale 427216
+Sono in quarantena 86741
+Sono morti 72784
+Sono in movimento 340475
+Ci sono 9544909risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 404946
+Sono vivi in totale 413909
+Sono in quarantena 81185
+Sono morti 86091
+Sono in movimento 332724
+Ci sono 8587409risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 403851
+Sono vivi in totale 413909
+Sono in quarantena 83187
+Sono morti 86091
+Sono in movimento 330722
+Ci sono 7730659risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 400808
+Sono vivi in totale 413909
+Sono in quarantena 83647
+Sono morti 86091
+Sono in movimento 330262
+Ci sono 6876129risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 392174
+Sono vivi in totale 413909
+Sono in quarantena 82428
+Sono morti 86091
+Sono in movimento 331481
+Ci sono 6028239risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 369769
+Sono vivi in totale 413909
+Sono in quarantena 78086
+Sono morti 86091
+Sono in movimento 335823
+Ci sono 5198129risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 347689
+Sono vivi in totale 413909
+Sono in quarantena 66220
+Sono morti 86091
+Sono in movimento 347689
+Ci sono 4414669risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 371408
+Sono vivi in totale 413909
+Sono in quarantena 42501
+Sono morti 86091
+Sono in movimento 371408
+Ci sono 3751419risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 237223
+Sono vivi in totale 413909
+Sono in quarantena 13187
+Sono morti 86091
+Sono in movimento 400722
+Ci sono 3326159risorse
+Giorno 29
+RECAP: 
+sono infetti 44135
+Sono vivi in totale 413909
+Sono in quarantena 0
+Sono morti 86091
+Sono in movimento 413909
+Ci sono 3194289risorse
+siren sound activated
+Giorno 30
+RECAP: 
+sono infetti 42184
+Sono vivi in totale 413909
+Sono in quarantena 575
+Sono morti 86091
+Sono in movimento 413334
+Ci sono 3183539risorse
+siren sound activated
+Giorno 31
+RECAP: 
+sono infetti 36814
+Sono vivi in totale 413909
+Sono in quarantena 1577
+Sono morti 86091
+Sono in movimento 412332
+Ci sono 3157539risorse
+siren sound activated
+Giorno 32
+RECAP: 
+sono infetti 34996
+Sono vivi in totale 413384
+Sono in quarantena 1687
+Sono morti 86616
+Sono in movimento 411697
+Ci sono 3131249risorse
+siren sound activated
+Giorno 33
+RECAP: 
+sono infetti 33121
+Sono vivi in totale 412647
+Sono in quarantena 1315
+Sono morti 87353
+Sono in movimento 411332
+Ci sono 3110589risorse
+siren sound activated
+Giorno 34
+RECAP: 
+sono infetti 33216
+Sono vivi in totale 412564
+Sono in quarantena 1337
+Sono morti 87436
+Sono in movimento 411227
+Ci sono 3095649risorse
+siren sound activated
+Giorno 35
+RECAP: 
+sono infetti 32717
+Sono vivi in totale 412555
+Sono in quarantena 1376
+Sono morti 87445
+Sono in movimento 411179
+Ci sono 3081279risorse
+siren sound activated
+Giorno 36
+RECAP: 
+sono infetti 32766
+Sono vivi in totale 412551
+Sono in quarantena 1404
+Sono morti 87449
+Sono in movimento 411147
+Ci sono 3066939risorse
+siren sound activated
+Giorno 37
+RECAP: 
+sono infetti 32994
+Sono vivi in totale 412547
+Sono in quarantena 1414
+Sono morti 87453
+Sono in movimento 411133
+Ci sono 3052609risorse
+siren sound activated
+Giorno 38
+RECAP: 
+sono infetti 33183
+Sono vivi in totale 412543
+Sono in quarantena 1419
+Sono morti 87457
+Sono in movimento 411124
+Ci sono 3038319risorse
+siren sound activated
+Giorno 39
+RECAP: 
+sono infetti 33222
+Sono vivi in totale 412543
+Sono in quarantena 1427
+Sono morti 87457
+Sono in movimento 411116
+Ci sono 3023989risorse
+siren sound activated
+Giorno 40
+RECAP: 
+sono infetti 21188
+Sono vivi in totale 412542
+Sono in quarantena 884
+Sono morti 87458
+Sono in movimento 411658
+Ci sono 3009619risorse
+siren sound activated
+Giorno 41
+RECAP: 
+sono infetti 3046
+Sono vivi in totale 412539
+Sono in quarantena 101
+Sono morti 87461
+Sono in movimento 412438
+Ci sono 3000689risorse
+siren sound activated
+Giorno 42
+RECAP: 
+sono infetti 1194
+Sono vivi in totale 412535
+Sono in quarantena 36
+Sono morti 87465
+Sono in movimento 412499
+Ci sono 2999599risorse
+siren sound activated
+Giorno 43
+RECAP: 
+sono infetti 944
+Sono vivi in totale 412530
+Sono in quarantena 32
+Sono morti 87470
+Sono in movimento 412498
+Ci sono 2999149risorse
+Giorno 44
+RECAP: 
+sono infetti 775
+Sono vivi in totale 412529
+Sono in quarantena 25
+Sono morti 87471
+Sono in movimento 412504
+Ci sono 2998799risorse
+siren sound activated
+Giorno 45
+RECAP: 
+sono infetti 676
+Sono vivi in totale 412527
+Sono in quarantena 23
+Sono morti 87473
+Sono in movimento 412504
+Ci sono 2998509risorse
+Giorno 46
+RECAP: 
+sono infetti 568
+Sono vivi in totale 412526
+Sono in quarantena 21
+Sono morti 87474
+Sono in movimento 412505
+Ci sono 2998279risorse
+Giorno 47
+RECAP: 
+sono infetti 428
+Sono vivi in totale 412525
+Sono in quarantena 18
+Sono morti 87475
+Sono in movimento 412507
+Ci sono 2998069risorse
+Giorno 48
+RECAP: 
+sono infetti 298
+Sono vivi in totale 412525
+Sono in quarantena 18
+Sono morti 87475
+Sono in movimento 412507
+Ci sono 2997889risorse
+Giorno 49
+RECAP: 
+sono infetti 323
+Sono vivi in totale 412525
+Sono in quarantena 14
+Sono morti 87475
+Sono in movimento 412511
+Ci sono 2997709risorse
+Giorno 50
+RECAP: 
+sono infetti 243
+Sono vivi in totale 412525
+Sono in quarantena 13
+Sono morti 87475
+Sono in movimento 412512
+Ci sono 2997569risorse
+Giorno 51
+RECAP: 
+sono infetti 164
+Sono vivi in totale 412525
+Sono in quarantena 11
+Sono morti 87475
+Sono in movimento 412514
+Ci sono 2997439risorse
+Giorno 52
+RECAP: 
+sono infetti 102
+Sono vivi in totale 412525
+Sono in quarantena 6
+Sono morti 87475
+Sono in movimento 412519
+Ci sono 2997329risorse
+Giorno 53
+RECAP: 
+sono infetti 53
+Sono vivi in totale 412525
+Sono in quarantena 1
+Sono morti 87475
+Sono in movimento 412524
+Ci sono 2997269risorse
+Giorno 54
+RECAP: 
+sono infetti 11
+Sono vivi in totale 412525
+Sono in quarantena 0
+Sono morti 87475
+Sono in movimento 412525
+Ci sono 2997249risorse
+Giorno 55
+RECAP: 
+sono infetti 13
+Sono vivi in totale 412525
+Sono in quarantena 0
+Sono morti 87475
+Sono in movimento 412525
+Ci sono 2997239risorse
+Giorno 56
+RECAP: 
+sono infetti 0
+Sono vivi in totale 412524
+Sono in quarantena 0
+Sono morti 87476
+Sono in movimento 412524
+Ci sono 2997239risorse
+Salvi!
+8484
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 6
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 10
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 39
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+siren sound activated
+Giorno 5
+RECAP: 
+sono infetti 87
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 292
+Sono vivi in totale 499999
+Sono in quarantena 1
+Sono morti 1
+Sono in movimento 499998
+Ci sono 14999959risorse
+Giorno 7
+RECAP: 
+sono infetti 742
+Sono vivi in totale 499999
+Sono in quarantena 1
+Sono morti 1
+Sono in movimento 499998
+Ci sono 14999939risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 2263
+Sono vivi in totale 499999
+Sono in quarantena 5
+Sono morti 1
+Sono in movimento 499994
+Ci sono 14999789risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5912
+Sono vivi in totale 499999
+Sono in quarantena 20
+Sono morti 1
+Sono in movimento 499979
+Ci sono 14999509risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 16935
+Sono vivi in totale 499989
+Sono in quarantena 54
+Sono morti 11
+Sono in movimento 499935
+Ci sono 14998529risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 44817
+Sono vivi in totale 499980
+Sono in quarantena 123
+Sono morti 20
+Sono in movimento 499857
+Ci sono 14996299risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 116121
+Sono vivi in totale 499953
+Sono in quarantena 403
+Sono morti 47
+Sono in movimento 499550
+Ci sono 14988789risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 254502
+Sono vivi in totale 499889
+Sono in quarantena 1123
+Sono morti 111
+Sono in movimento 498766
+Ci sono 14968949risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 421721
+Sono vivi in totale 499628
+Sono in quarantena 3256
+Sono morti 372
+Sono in movimento 496372
+Ci sono 14911479risorse
+siren sound activated
+Sono allertato
+Entro nella prefase
+Giorno 15
+RECAP: 
+sono infetti 460929
+Sono vivi in totale 499003
+Sono in quarantena 8844
+Sono morti 997
+Sono in movimento 490159
+Ci sono 14759819risorse
+siren sound activated
+Sono allertato
+Entro nella prefase
+Giorno 16
+RECAP: 
+sono infetti 459466
+Sono vivi in totale 497035
+Sono in quarantena 37569
+Sono morti 2965
+Sono in movimento 459466
+Ci sono 14369429risorse
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Sono stati messi in quarantena 41098persone
+Giorno 17
+RECAP: 
+sono infetti 454572
+Sono vivi in totale 492146
+Sono in quarantena 122256
+Sono morti 7854
+Sono in movimento 369890
+Ci sono 13508949risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 18
+RECAP: 
+sono infetti 442242
+Sono vivi in totale 479832
+Sono in quarantena 162764
+Sono morti 20168
+Sono in movimento 317068
+Ci sono 12128338risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 19
+RECAP: 
+sono infetti 418050
+Sono vivi in totale 455672
+Sono in quarantena 151112
+Sono morti 44328
+Sono in movimento 304560
+Ci sono 10694437risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 20
+RECAP: 
+sono infetti 388784
+Sono vivi in totale 426529
+Sono in quarantena 122178
+Sono morti 73471
+Sono in movimento 304351
+Ci sono 9487896risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 47
+Giorno 21
+RECAP: 
+sono infetti 381574
+Sono vivi in totale 419605
+Sono in quarantena 115286
+Sono morti 80395
+Sono in movimento 304319
+Ci sono 8572533risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 45
+Giorno 22
+RECAP: 
+sono infetti 380605
+Sono vivi in totale 419512
+Sono in quarantena 115223
+Sono morti 80488
+Sono in movimento 304289
+Ci sono 7727002risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 42
+Giorno 23
+RECAP: 
+sono infetti 378455
+Sono vivi in totale 419512
+Sono in quarantena 115239
+Sono morti 80488
+Sono in movimento 304273
+Ci sono 6884855risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 44
+Giorno 24
+RECAP: 
+sono infetti 372015
+Sono vivi in totale 419512
+Sono in quarantena 115244
+Sono morti 80488
+Sono in movimento 304268
+Ci sono 6048494risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 39
+Giorno 25
+RECAP: 
+sono infetti 355735
+Sono vivi in totale 419512
+Sono in quarantena 115224
+Sono morti 80488
+Sono in movimento 304288
+Ci sono 5229342risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 35
+Giorno 26
+RECAP: 
+sono infetti 313915
+Sono vivi in totale 419512
+Sono in quarantena 115120
+Sono morti 80488
+Sono in movimento 304392
+Ci sono 4453953risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 19
+Giorno 27
+RECAP: 
+sono infetti 304628
+Sono vivi in totale 419512
+Sono in quarantena 114884
+Sono morti 80488
+Sono in movimento 304628
+Ci sono 3791120risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 5
+Giorno 28
+RECAP: 
+sono infetti 177350
+Sono vivi in totale 419512
+Sono in quarantena 114441
+Sono morti 80488
+Sono in movimento 305071
+Ci sono 3346956risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 29
+RECAP: 
+sono infetti 150853
+Sono vivi in totale 419512
+Sono in quarantena 113960
+Sono morti 80488
+Sono in movimento 305552
+Ci sono 3167679risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 5
+Giorno 30
+RECAP: 
+sono infetti 155202
+Sono vivi in totale 419512
+Sono in quarantena 113470
+Sono morti 80488
+Sono in movimento 306042
+Ci sono 3051286risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 4
+Giorno 31
+RECAP: 
+sono infetti 151489
+Sono vivi in totale 419512
+Sono in quarantena 117738
+Sono morti 80488
+Sono in movimento 301774
+Ci sono 2889144risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 2
+Giorno 32
+RECAP: 
+sono infetti 154944
+Sono vivi in totale 419512
+Sono in quarantena 117881
+Sono morti 80488
+Sono in movimento 301631
+Ci sono 2721375risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 33
+RECAP: 
+sono infetti 155727
+Sono vivi in totale 417166
+Sono in quarantena 115503
+Sono morti 82834
+Sono in movimento 301663
+Ci sono 2549693risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 2
+Giorno 34
+RECAP: 
+sono infetti 158228
+Sono vivi in totale 416852
+Sono in quarantena 115168
+Sono morti 83148
+Sono in movimento 301684
+Ci sono 2397241risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 35
+RECAP: 
+sono infetti 161143
+Sono vivi in totale 416629
+Sono in quarantena 114842
+Sono morti 83371
+Sono in movimento 301787
+Ci sono 2244671risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 3
+Giorno 36
+RECAP: 
+sono infetti 163968
+Sono vivi in totale 416406
+Sono in quarantena 114521
+Sono morti 83594
+Sono in movimento 301885
+Ci sono 2091189risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 37
+RECAP: 
+sono infetti 164870
+Sono vivi in totale 416230
+Sono in quarantena 114657
+Sono morti 83770
+Sono in movimento 301573
+Ci sono 1938835risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 38
+RECAP: 
+sono infetti 61600
+Sono vivi in totale 416057
+Sono in quarantena 4003
+Sono morti 83943
+Sono in movimento 412054
+Ci sono 1784901risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 39
+RECAP: 
+sono infetti 63424
+Sono vivi in totale 415906
+Sono in quarantena 4088
+Sono morti 84094
+Sono in movimento 411818
+Ci sono 1740297risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 40
+RECAP: 
+sono infetti 65416
+Sono vivi in totale 415741
+Sono in quarantena 4220
+Sono morti 84259
+Sono in movimento 411521
+Ci sono 1694443risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 41
+RECAP: 
+sono infetti 34668
+Sono vivi in totale 415594
+Sono in quarantena 1987
+Sono morti 84406
+Sono in movimento 413607
+Ci sono 1647359risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 42
+RECAP: 
+sono infetti 31318
+Sono vivi in totale 415451
+Sono in quarantena 1849
+Sono morti 84549
+Sono in movimento 413602
+Ci sono 1622396risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 43
+RECAP: 
+sono infetti 28462
+Sono vivi in totale 415291
+Sono in quarantena 1735
+Sono morti 84709
+Sono in movimento 413556
+Ci sono 1599213risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 44
+RECAP: 
+sono infetti 25277
+Sono vivi in totale 415130
+Sono in quarantena 1568
+Sono morti 84870
+Sono in movimento 413562
+Ci sono 1577280risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 45
+RECAP: 
+sono infetti 23027
+Sono vivi in totale 415004
+Sono in quarantena 1439
+Sono morti 84996
+Sono in movimento 413565
+Ci sono 1558239risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 46
+RECAP: 
+sono infetti 20499
+Sono vivi in totale 414878
+Sono in quarantena 1269
+Sono morti 85122
+Sono in movimento 413609
+Ci sono 1541279risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 47
+RECAP: 
+sono infetti 18366
+Sono vivi in totale 414820
+Sono in quarantena 1161
+Sono morti 85180
+Sono in movimento 413659
+Ci sono 1526539risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 48
+RECAP: 
+sono infetti 16226
+Sono vivi in totale 414761
+Sono in quarantena 1025
+Sono morti 85239
+Sono in movimento 413736
+Ci sono 1513369risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 49
+RECAP: 
+sono infetti 14245
+Sono vivi in totale 414726
+Sono in quarantena 902
+Sono morti 85274
+Sono in movimento 413824
+Ci sono 1501929risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 50
+RECAP: 
+sono infetti 12487
+Sono vivi in totale 414700
+Sono in quarantena 765
+Sono morti 85300
+Sono in movimento 413935
+Ci sono 1491889risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 51
+RECAP: 
+sono infetti 10900
+Sono vivi in totale 414671
+Sono in quarantena 656
+Sono morti 85329
+Sono in movimento 414015
+Ci sono 1483289risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 52
+RECAP: 
+sono infetti 8465
+Sono vivi in totale 414651
+Sono in quarantena 546
+Sono morti 85349
+Sono in movimento 414105
+Ci sono 1475879risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 53
+RECAP: 
+sono infetti 6527
+Sono vivi in totale 414630
+Sono in quarantena 429
+Sono morti 85370
+Sono in movimento 414201
+Ci sono 1469789risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 54
+RECAP: 
+sono infetti 4887
+Sono vivi in totale 414607
+Sono in quarantena 324
+Sono morti 85393
+Sono in movimento 414283
+Ci sono 1464949risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 55
+RECAP: 
+sono infetti 4002
+Sono vivi in totale 414589
+Sono in quarantena 281
+Sono morti 85411
+Sono in movimento 414308
+Ci sono 1461279risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 56
+RECAP: 
+sono infetti 3428
+Sono vivi in totale 414576
+Sono in quarantena 231
+Sono morti 85424
+Sono in movimento 414345
+Ci sono 1458089risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 57
+RECAP: 
+sono infetti 2843
+Sono vivi in totale 414559
+Sono in quarantena 194
+Sono morti 85441
+Sono in movimento 414365
+Ci sono 1455469risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 58
+RECAP: 
+sono infetti 2361
+Sono vivi in totale 414548
+Sono in quarantena 163
+Sono morti 85452
+Sono in movimento 414385
+Ci sono 1453329risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 59
+RECAP: 
+sono infetti 2012
+Sono vivi in totale 414538
+Sono in quarantena 141
+Sono morti 85462
+Sono in movimento 414397
+Ci sono 1451579risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 60
+RECAP: 
+sono infetti 1659
+Sono vivi in totale 414536
+Sono in quarantena 111
+Sono morti 85464
+Sono in movimento 414425
+Ci sono 1450069risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 61
+RECAP: 
+sono infetti 1402
+Sono vivi in totale 414533
+Sono in quarantena 89
+Sono morti 85467
+Sono in movimento 414444
+Ci sono 1448849risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 62
+RECAP: 
+sono infetti 1088
+Sono vivi in totale 414531
+Sono in quarantena 77
+Sono morti 85469
+Sono in movimento 414454
+Ci sono 1447859risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 63
+RECAP: 
+sono infetti 965
+Sono vivi in totale 414528
+Sono in quarantena 66
+Sono morti 85472
+Sono in movimento 414462
+Ci sono 1447039risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 64
+RECAP: 
+sono infetti 742
+Sono vivi in totale 414526
+Sono in quarantena 52
+Sono morti 85474
+Sono in movimento 414474
+Ci sono 1446339risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 65
+RECAP: 
+sono infetti 616
+Sono vivi in totale 414525
+Sono in quarantena 46
+Sono morti 85475
+Sono in movimento 414479
+Ci sono 1445759risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 66
+RECAP: 
+sono infetti 467
+Sono vivi in totale 414525
+Sono in quarantena 39
+Sono morti 85475
+Sono in movimento 414486
+Ci sono 1445269risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 67
+RECAP: 
+sono infetti 338
+Sono vivi in totale 414523
+Sono in quarantena 32
+Sono morti 85477
+Sono in movimento 414491
+Ci sono 1444839risorse
+Sono allertato
+Non sono allertato
+Giorno 68
+RECAP: 
+sono infetti 292
+Sono vivi in totale 414522
+Sono in quarantena 25
+Sono morti 85478
+Sono in movimento 414497
+Ci sono 1444499risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 69
+RECAP: 
+sono infetti 275
+Sono vivi in totale 414521
+Sono in quarantena 22
+Sono morti 85479
+Sono in movimento 414499
+Ci sono 1444229risorse
+Sono allertato
+Non sono allertato
+Giorno 70
+RECAP: 
+sono infetti 220
+Sono vivi in totale 414521
+Sono in quarantena 16
+Sono morti 85479
+Sono in movimento 414505
+Ci sono 1443999risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 71
+RECAP: 
+sono infetti 195
+Sono vivi in totale 414521
+Sono in quarantena 17
+Sono morti 85479
+Sono in movimento 414504
+Ci sono 1443809risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 72
+RECAP: 
+sono infetti 152
+Sono vivi in totale 414521
+Sono in quarantena 13
+Sono morti 85479
+Sono in movimento 414508
+Ci sono 1443619risorse
+Sono allertato
+Non sono allertato
+Giorno 73
+RECAP: 
+sono infetti 107
+Sono vivi in totale 414520
+Sono in quarantena 12
+Sono morti 85480
+Sono in movimento 414508
+Ci sono 1443459risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 74
+RECAP: 
+sono infetti 102
+Sono vivi in totale 414520
+Sono in quarantena 10
+Sono morti 85480
+Sono in movimento 414510
+Ci sono 1443289risorse
+Sono allertato
+Non sono allertato
+Giorno 75
+RECAP: 
+sono infetti 74
+Sono vivi in totale 414519
+Sono in quarantena 7
+Sono morti 85481
+Sono in movimento 414512
+Ci sono 1443159risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 76
+RECAP: 
+sono infetti 44
+Sono vivi in totale 414517
+Sono in quarantena 7
+Sono morti 85483
+Sono in movimento 414510
+Ci sono 1443059risorse
+Sono allertato
+Non sono allertato
+Giorno 77
+RECAP: 
+sono infetti 45
+Sono vivi in totale 414517
+Sono in quarantena 5
+Sono morti 85483
+Sono in movimento 414512
+Ci sono 1442979risorse
+Sono allertato
+Non sono allertato
+Giorno 78
+RECAP: 
+sono infetti 25
+Sono vivi in totale 414516
+Sono in quarantena 4
+Sono morti 85484
+Sono in movimento 414512
+Ci sono 1442929risorse
+Sono allertato
+Non sono allertato
+Giorno 79
+RECAP: 
+sono infetti 28
+Sono vivi in totale 414516
+Sono in quarantena 3
+Sono morti 85484
+Sono in movimento 414513
+Ci sono 1442889risorse
+Sono allertato
+Non sono allertato
+Giorno 80
+RECAP: 
+sono infetti 27
+Sono vivi in totale 414516
+Sono in quarantena 3
+Sono morti 85484
+Sono in movimento 414513
+Ci sono 1442859risorse
+Sono allertato
+Non sono allertato
+Giorno 81
+RECAP: 
+sono infetti 24
+Sono vivi in totale 414516
+Sono in quarantena 2
+Sono morti 85484
+Sono in movimento 414514
+Ci sono 1442829risorse
+Sono allertato
+Non sono allertato
+Giorno 82
+RECAP: 
+sono infetti 27
+Sono vivi in totale 414516
+Sono in quarantena 1
+Sono morti 85484
+Sono in movimento 414515
+Ci sono 1442809risorse
+Sono allertato
+Non sono allertato
+Giorno 83
+RECAP: 
+sono infetti 9
+Sono vivi in totale 414516
+Sono in quarantena 0
+Sono morti 85484
+Sono in movimento 414516
+Ci sono 1442799risorse
+Sono allertato
+Non sono allertato
+Giorno 84
+RECAP: 
+sono infetti 20
+Sono vivi in totale 414516
+Sono in quarantena 0
+Sono morti 85484
+Sono in movimento 414516
+Ci sono 1442789risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 85
+RECAP: 
+sono infetti 17
+Sono vivi in totale 414516
+Sono in quarantena 1
+Sono morti 85484
+Sono in movimento 414515
+Ci sono 1442779risorse
+Sono allertato
+Non sono allertato
+Giorno 86
+RECAP: 
+sono infetti 13
+Sono vivi in totale 414516
+Sono in quarantena 1
+Sono morti 85484
+Sono in movimento 414515
+Ci sono 1442769risorse
+Sono allertato
+Non sono allertato
+Giorno 87
+RECAP: 
+sono infetti 19
+Sono vivi in totale 414516
+Sono in quarantena 1
+Sono morti 85484
+Sono in movimento 414515
+Ci sono 1442749risorse
+Sono allertato
+Non sono allertato
+Giorno 88
+RECAP: 
+sono infetti 19
+Sono vivi in totale 414516
+Sono in quarantena 1
+Sono morti 85484
+Sono in movimento 414515
+Ci sono 1442729risorse
+Sono allertato
+Non sono allertato
+Giorno 89
+RECAP: 
+sono infetti 11
+Sono vivi in totale 414515
+Sono in quarantena 1
+Sono morti 85485
+Sono in movimento 414514
+Ci sono 1442719risorse
+Sono allertato
+Non sono allertato
+Giorno 90
+RECAP: 
+sono infetti 17
+Sono vivi in totale 414515
+Sono in quarantena 1
+Sono morti 85485
+Sono in movimento 414514
+Ci sono 1442709risorse
+Sono allertato
+Non sono allertato
+Giorno 91
+RECAP: 
+sono infetti 10
+Sono vivi in totale 414515
+Sono in quarantena 1
+Sono morti 85485
+Sono in movimento 414514
+Ci sono 1442699risorse
+Sono allertato
+Non sono allertato
+Giorno 92
+RECAP: 
+sono infetti 10
+Sono vivi in totale 414515
+Sono in quarantena 1
+Sono morti 85485
+Sono in movimento 414514
+Ci sono 1442689risorse
+Sono allertato
+Non sono allertato
+Giorno 93
+RECAP: 
+sono infetti 7
+Sono vivi in totale 414515
+Sono in quarantena 1
+Sono morti 85485
+Sono in movimento 414514
+Ci sono 1442679risorse
+Sono allertato
+Non sono allertato
+Giorno 94
+RECAP: 
+sono infetti 12
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Sono allertato
+Non sono allertato
+Giorno 95
+RECAP: 
+sono infetti 10
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Sono allertato
+Non sono allertato
+Giorno 96
+RECAP: 
+sono infetti 4
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Sono allertato
+Non sono allertato
+Giorno 97
+RECAP: 
+sono infetti 6
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Sono allertato
+Non sono allertato
+Giorno 98
+RECAP: 
+sono infetti 2
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Sono allertato
+Non sono allertato
+Giorno 99
+RECAP: 
+sono infetti 5
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Sono allertato
+Non sono allertato
+Giorno 100
+RECAP: 
+sono infetti 0
+Sono vivi in totale 414515
+Sono in quarantena 0
+Sono morti 85485
+Sono in movimento 414515
+Ci sono 1442669risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 6
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 9
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 39
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 82
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 6
+RECAP: 
+sono infetti 273
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 706
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 2061
+Sono vivi in totale 500000
+Sono in quarantena 11
+Sono morti 0
+Sono in movimento 499989
+Ci sono 14999809risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5627
+Sono vivi in totale 500000
+Sono in quarantena 18
+Sono morti 0
+Sono in movimento 499982
+Ci sono 14999569risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 15721
+Sono vivi in totale 499991
+Sono in quarantena 43
+Sono morti 9
+Sono in movimento 499948
+Ci sono 14998629risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 42458
+Sono vivi in totale 499985
+Sono in quarantena 141
+Sono morti 15
+Sono in movimento 499844
+Ci sono 14996229risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 109382
+Sono vivi in totale 499955
+Sono in quarantena 393
+Sono morti 45
+Sono in movimento 499562
+Ci sono 14988809risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 244151
+Sono vivi in totale 499874
+Sono in quarantena 1099
+Sono morti 126
+Sono in movimento 498775
+Ci sono 14969699risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 413006
+Sono vivi in totale 499628
+Sono in quarantena 3028
+Sono morti 372
+Sono in movimento 496600
+Ci sono 14916679risorse
+siren sound activated
+Sono allertato
+Entro nella prefase
+Giorno 15
+RECAP: 
+sono infetti 455559
+Sono vivi in totale 499039
+Sono in quarantena 8256
+Sono morti 961
+Sono in movimento 490783
+Ci sono 14774049risorse
+siren sound activated
+Sono allertato
+Entro nella prefase
+Giorno 16
+RECAP: 
+sono infetti 461832
+Sono vivi in totale 497260
+Sono in quarantena 35428
+Sono morti 2740
+Sono in movimento 461832
+Ci sono 14406469risorse
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Sono stati messi in quarantena 41468persone
+Giorno 17
+RECAP: 
+sono infetti 457182
+Sono vivi in totale 492615
+Sono in quarantena 119397
+Sono morti 7385
+Sono in movimento 373218
+Ci sono 13580729risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 18
+RECAP: 
+sono infetti 445387
+Sono vivi in totale 480834
+Sono in quarantena 160639
+Sono morti 19166
+Sono in movimento 320195
+Ci sono 12230048risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 19
+RECAP: 
+sono infetti 421896
+Sono vivi in totale 457374
+Sono in quarantena 150792
+Sono morti 42626
+Sono in movimento 306582
+Ci sono 10807956risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 20
+RECAP: 
+sono infetti 392303
+Sono vivi in totale 427889
+Sono in quarantena 123919
+Sono morti 72111
+Sono in movimento 303970
+Ci sono 9581778risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 48
+Giorno 21
+RECAP: 
+sono infetti 384511
+Sono vivi in totale 420345
+Sono in quarantena 116410
+Sono morti 79655
+Sono in movimento 303935
+Ci sono 8647850risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 46
+Giorno 22
+RECAP: 
+sono infetti 382350
+Sono vivi in totale 418926
+Sono in quarantena 115023
+Sono morti 81074
+Sono in movimento 303903
+Ci sono 7789990risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 46
+Giorno 23
+RECAP: 
+sono infetti 380201
+Sono vivi in totale 418926
+Sono in quarantena 115048
+Sono morti 81074
+Sono in movimento 303878
+Ci sono 6948721risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 43
+Giorno 24
+RECAP: 
+sono infetti 374293
+Sono vivi in totale 418926
+Sono in quarantena 115056
+Sono morti 81074
+Sono in movimento 303870
+Ci sono 6112959risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 38
+Giorno 25
+RECAP: 
+sono infetti 358641
+Sono vivi in totale 418926
+Sono in quarantena 115037
+Sono morti 81074
+Sono in movimento 303889
+Ci sono 5292759risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 34
+Giorno 26
+RECAP: 
+sono infetti 319468
+Sono vivi in totale 418926
+Sono in quarantena 114929
+Sono morti 81074
+Sono in movimento 303997
+Ci sono 4514215risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 29
+Giorno 27
+RECAP: 
+sono infetti 304245
+Sono vivi in totale 418926
+Sono in quarantena 114681
+Sono morti 81074
+Sono in movimento 304245
+Ci sono 3839939risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 4
+Giorno 28
+RECAP: 
+sono infetti 188926
+Sono vivi in totale 418926
+Sono in quarantena 114226
+Sono morti 81074
+Sono in movimento 304700
+Ci sono 3378653risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 3
+Giorno 29
+RECAP: 
+sono infetti 155627
+Sono vivi in totale 418926
+Sono in quarantena 113724
+Sono morti 81074
+Sono in movimento 305202
+Ci sono 3182731risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 3
+Giorno 30
+RECAP: 
+sono infetti 149864
+Sono vivi in totale 418926
+Sono in quarantena 113217
+Sono morti 81074
+Sono in movimento 305709
+Ci sono 3054478risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 0
+Giorno 31
+RECAP: 
+sono infetti 147087
+Sono vivi in totale 418926
+Sono in quarantena 116624
+Sono morti 81074
+Sono in movimento 302302
+Ci sono 2900785risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 3
+Giorno 32
+RECAP: 
+sono infetti 149165
+Sono vivi in totale 418926
+Sono in quarantena 116905
+Sono morti 81074
+Sono in movimento 302021
+Ci sono 2739786risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 5
+Giorno 33
+RECAP: 
+sono infetti 149777
+Sono vivi in totale 416978
+Sono in quarantena 114960
+Sono morti 83022
+Sono in movimento 302018
+Ci sono 2574544risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 34
+RECAP: 
+sono infetti 151482
+Sono vivi in totale 416598
+Sono in quarantena 114497
+Sono morti 83402
+Sono in movimento 302101
+Ci sono 2425388risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 3
+Giorno 35
+RECAP: 
+sono infetti 154286
+Sono vivi in totale 416354
+Sono in quarantena 114049
+Sono morti 83646
+Sono in movimento 302305
+Ci sono 2277539risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 36
+RECAP: 
+sono infetti 156322
+Sono vivi in totale 416170
+Sono in quarantena 113644
+Sono morti 83830
+Sono in movimento 302526
+Ci sono 2129860risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 37
+RECAP: 
+sono infetti 157483
+Sono vivi in totale 416013
+Sono in quarantena 113800
+Sono morti 83987
+Sono in movimento 302213
+Ci sono 1983035risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 38
+RECAP: 
+sono infetti 53709
+Sono vivi in totale 415871
+Sono in quarantena 3513
+Sono morti 84129
+Sono in movimento 412358
+Ci sono 1835170risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 39
+RECAP: 
+sono infetti 54622
+Sono vivi in totale 415729
+Sono in quarantena 3572
+Sono morti 84271
+Sono in movimento 412157
+Ci sono 1796353risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 40
+RECAP: 
+sono infetti 56570
+Sono vivi in totale 415594
+Sono in quarantena 3676
+Sono morti 84406
+Sono in movimento 411918
+Ci sono 1756556risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 41
+RECAP: 
+sono infetti 31716
+Sono vivi in totale 415454
+Sono in quarantena 1824
+Sono morti 84546
+Sono in movimento 413630
+Ci sono 1715829risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 42
+RECAP: 
+sono infetti 27134
+Sono vivi in totale 415319
+Sono in quarantena 1541
+Sono morti 84681
+Sono in movimento 413778
+Ci sono 1693572risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 43
+RECAP: 
+sono infetti 24530
+Sono vivi in totale 415194
+Sono in quarantena 1417
+Sono morti 84806
+Sono in movimento 413777
+Ci sono 1673939risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 44
+RECAP: 
+sono infetti 21802
+Sono vivi in totale 415073
+Sono in quarantena 1326
+Sono morti 84927
+Sono in movimento 413747
+Ci sono 1655518risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 45
+RECAP: 
+sono infetti 19972
+Sono vivi in totale 414938
+Sono in quarantena 1246
+Sono morti 85062
+Sono in movimento 413692
+Ci sono 1639137risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 46
+RECAP: 
+sono infetti 18146
+Sono vivi in totale 414814
+Sono in quarantena 1143
+Sono morti 85186
+Sono in movimento 413671
+Ci sono 1624497risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 47
+RECAP: 
+sono infetti 16286
+Sono vivi in totale 414754
+Sono in quarantena 1018
+Sono morti 85246
+Sono in movimento 413736
+Ci sono 1611547risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 48
+RECAP: 
+sono infetti 14592
+Sono vivi in totale 414697
+Sono in quarantena 902
+Sono morti 85303
+Sono in movimento 413795
+Ci sono 1600127risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 49
+RECAP: 
+sono infetti 12712
+Sono vivi in totale 414671
+Sono in quarantena 808
+Sono morti 85329
+Sono in movimento 413863
+Ci sono 1589997risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 50
+RECAP: 
+sono infetti 11336
+Sono vivi in totale 414640
+Sono in quarantena 695
+Sono morti 85360
+Sono in movimento 413945
+Ci sono 1580957risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 51
+RECAP: 
+sono infetti 9571
+Sono vivi in totale 414612
+Sono in quarantena 610
+Sono morti 85388
+Sono in movimento 414002
+Ci sono 1573067risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 52
+RECAP: 
+sono infetti 8082
+Sono vivi in totale 414591
+Sono in quarantena 515
+Sono morti 85409
+Sono in movimento 414076
+Ci sono 1566157risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 53
+RECAP: 
+sono infetti 6212
+Sono vivi in totale 414566
+Sono in quarantena 407
+Sono morti 85434
+Sono in movimento 414159
+Ci sono 1560307risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 54
+RECAP: 
+sono infetti 4813
+Sono vivi in totale 414551
+Sono in quarantena 309
+Sono morti 85449
+Sono in movimento 414242
+Ci sono 1555547risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 55
+RECAP: 
+sono infetti 4056
+Sono vivi in totale 414540
+Sono in quarantena 269
+Sono morti 85460
+Sono in movimento 414271
+Ci sono 1551887risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 56
+RECAP: 
+sono infetti 3400
+Sono vivi in totale 414517
+Sono in quarantena 223
+Sono morti 85483
+Sono in movimento 414294
+Ci sono 1548757risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 57
+RECAP: 
+sono infetti 2957
+Sono vivi in totale 414504
+Sono in quarantena 186
+Sono morti 85496
+Sono in movimento 414318
+Ci sono 1546167risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 58
+RECAP: 
+sono infetti 2569
+Sono vivi in totale 414488
+Sono in quarantena 156
+Sono morti 85512
+Sono in movimento 414332
+Ci sono 1544097risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 59
+RECAP: 
+sono infetti 2186
+Sono vivi in totale 414486
+Sono in quarantena 141
+Sono morti 85514
+Sono in movimento 414345
+Ci sono 1542297risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 60
+RECAP: 
+sono infetti 1804
+Sono vivi in totale 414481
+Sono in quarantena 126
+Sono morti 85519
+Sono in movimento 414355
+Ci sono 1540677risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 61
+RECAP: 
+sono infetti 1541
+Sono vivi in totale 414471
+Sono in quarantena 100
+Sono morti 85529
+Sono in movimento 414371
+Ci sono 1539287risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 62
+RECAP: 
+sono infetti 1242
+Sono vivi in totale 414465
+Sono in quarantena 78
+Sono morti 85535
+Sono in movimento 414387
+Ci sono 1538187risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 63
+RECAP: 
+sono infetti 963
+Sono vivi in totale 414463
+Sono in quarantena 62
+Sono morti 85537
+Sono in movimento 414401
+Ci sono 1537347risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 64
+RECAP: 
+sono infetti 757
+Sono vivi in totale 414461
+Sono in quarantena 47
+Sono morti 85539
+Sono in movimento 414414
+Ci sono 1536667risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 65
+RECAP: 
+sono infetti 559
+Sono vivi in totale 414460
+Sono in quarantena 42
+Sono morti 85540
+Sono in movimento 414418
+Ci sono 1536127risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 66
+RECAP: 
+sono infetti 447
+Sono vivi in totale 414458
+Sono in quarantena 38
+Sono morti 85542
+Sono in movimento 414420
+Ci sono 1535647risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 67
+RECAP: 
+sono infetti 407
+Sono vivi in totale 414456
+Sono in quarantena 29
+Sono morti 85544
+Sono in movimento 414427
+Ci sono 1535247risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 68
+RECAP: 
+sono infetti 344
+Sono vivi in totale 414455
+Sono in quarantena 24
+Sono morti 85545
+Sono in movimento 414431
+Ci sono 1534937risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 69
+RECAP: 
+sono infetti 268
+Sono vivi in totale 414455
+Sono in quarantena 18
+Sono morti 85545
+Sono in movimento 414437
+Ci sono 1534677risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 70
+RECAP: 
+sono infetti 233
+Sono vivi in totale 414454
+Sono in quarantena 16
+Sono morti 85546
+Sono in movimento 414438
+Ci sono 1534477risorse
+Sono allertato
+Non sono allertato
+Giorno 71
+RECAP: 
+sono infetti 188
+Sono vivi in totale 414453
+Sono in quarantena 11
+Sono morti 85547
+Sono in movimento 414442
+Ci sono 1534297risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 72
+RECAP: 
+sono infetti 144
+Sono vivi in totale 414453
+Sono in quarantena 10
+Sono morti 85547
+Sono in movimento 414443
+Ci sono 1534157risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 73
+RECAP: 
+sono infetti 138
+Sono vivi in totale 414453
+Sono in quarantena 12
+Sono morti 85547
+Sono in movimento 414441
+Ci sono 1534037risorse
+Sono allertato
+Non sono allertato
+Giorno 74
+RECAP: 
+sono infetti 86
+Sono vivi in totale 414452
+Sono in quarantena 9
+Sono morti 85548
+Sono in movimento 414443
+Ci sono 1533917risorse
+Sono allertato
+Non sono allertato
+Giorno 75
+RECAP: 
+sono infetti 75
+Sono vivi in totale 414451
+Sono in quarantena 6
+Sono morti 85549
+Sono in movimento 414445
+Ci sono 1533827risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 76
+RECAP: 
+sono infetti 60
+Sono vivi in totale 414451
+Sono in quarantena 5
+Sono morti 85549
+Sono in movimento 414446
+Ci sono 1533757risorse
+Sono allertato
+Non sono allertato
+Giorno 77
+RECAP: 
+sono infetti 51
+Sono vivi in totale 414451
+Sono in quarantena 4
+Sono morti 85549
+Sono in movimento 414447
+Ci sono 1533697risorse
+Sono allertato
+Non sono allertato
+Giorno 78
+RECAP: 
+sono infetti 47
+Sono vivi in totale 414450
+Sono in quarantena 3
+Sono morti 85550
+Sono in movimento 414447
+Ci sono 1533647risorse
+Sono allertato
+Non sono allertato
+Giorno 79
+RECAP: 
+sono infetti 43
+Sono vivi in totale 414450
+Sono in quarantena 3
+Sono morti 85550
+Sono in movimento 414447
+Ci sono 1533607risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 80
+RECAP: 
+sono infetti 31
+Sono vivi in totale 414450
+Sono in quarantena 2
+Sono morti 85550
+Sono in movimento 414448
+Ci sono 1533567risorse
+Sono allertato
+Non sono allertato
+Giorno 81
+RECAP: 
+sono infetti 30
+Sono vivi in totale 414450
+Sono in quarantena 1
+Sono morti 85550
+Sono in movimento 414449
+Ci sono 1533547risorse
+Sono allertato
+Non sono allertato
+Giorno 82
+RECAP: 
+sono infetti 14
+Sono vivi in totale 414450
+Sono in quarantena 1
+Sono morti 85550
+Sono in movimento 414449
+Ci sono 1533537risorse
+Sono allertato
+Non sono allertato
+Giorno 83
+RECAP: 
+sono infetti 18
+Sono vivi in totale 414450
+Sono in quarantena 1
+Sono morti 85550
+Sono in movimento 414449
+Ci sono 1533527risorse
+Sono allertato
+Non sono allertato
+Giorno 84
+RECAP: 
+sono infetti 18
+Sono vivi in totale 414450
+Sono in quarantena 1
+Sono morti 85550
+Sono in movimento 414449
+Ci sono 1533517risorse
+Sono allertato
+Non sono allertato
+Giorno 85
+RECAP: 
+sono infetti 7
+Sono vivi in totale 414450
+Sono in quarantena 1
+Sono morti 85550
+Sono in movimento 414449
+Ci sono 1533507risorse
+Sono allertato
+Non sono allertato
+Giorno 86
+RECAP: 
+sono infetti 8
+Sono vivi in totale 414450
+Sono in quarantena 1
+Sono morti 85550
+Sono in movimento 414449
+Ci sono 1533497risorse
+Sono allertato
+Non sono allertato
+Giorno 87
+RECAP: 
+sono infetti 3
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Sono allertato
+Non sono allertato
+Giorno 88
+RECAP: 
+sono infetti 4
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Sono allertato
+Non sono allertato
+Giorno 89
+RECAP: 
+sono infetti 5
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Sono allertato
+Non sono allertato
+Giorno 90
+RECAP: 
+sono infetti 4
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Sono allertato
+Non sono allertato
+Giorno 91
+RECAP: 
+sono infetti 2
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Sono allertato
+Non sono allertato
+Giorno 92
+RECAP: 
+sono infetti 10
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Sono allertato
+Non sono allertato
+Giorno 93
+RECAP: 
+sono infetti 0
+Sono vivi in totale 414450
+Sono in quarantena 0
+Sono morti 85550
+Sono in movimento 414450
+Ci sono 1533487risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 5
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 11
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 34
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 87
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 6
+RECAP: 
+sono infetti 239
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999979risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 663
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999949risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 1852
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999879risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5147
+Sono vivi in totale 500000
+Sono in quarantena 14
+Sono morti 0
+Sono in movimento 499986
+Ci sono 14999659risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 14128
+Sono vivi in totale 499998
+Sono in quarantena 36
+Sono morti 2
+Sono in movimento 499962
+Ci sono 14998849risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 38561
+Sono vivi in totale 499994
+Sono in quarantena 118
+Sono morti 6
+Sono in movimento 499876
+Ci sono 14996669risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 99036
+Sono vivi in totale 499966
+Sono in quarantena 320
+Sono morti 34
+Sono in movimento 499646
+Ci sono 14990569risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 226989
+Sono vivi in totale 499897
+Sono in quarantena 992
+Sono morti 103
+Sono in movimento 498905
+Ci sono 14973019risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 397250
+Sono vivi in totale 499677
+Sono in quarantena 2739
+Sono morti 323
+Sono in movimento 496938
+Ci sono 14925369risorse
+siren sound activated
+Sono allertato
+Entro nella prefase
+Giorno 15
+RECAP: 
+sono infetti 445954
+Sono vivi in totale 499090
+Sono in quarantena 7418
+Sono morti 910
+Sono in movimento 491672
+Ci sono 14795649risorse
+siren sound activated
+Sono allertato
+Entro nella prefase
+Giorno 16
+RECAP: 
+sono infetti 465645
+Sono vivi in totale 497586
+Sono in quarantena 31941
+Sono morti 2414
+Sono in movimento 465645
+Ci sono 14464869risorse
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Sono stati messi in quarantena 42066persone
+Giorno 17
+RECAP: 
+sono infetti 461384
+Sono vivi in totale 493333
+Sono in quarantena 114736
+Sono morti 6667
+Sono in movimento 378597
+Ci sono 13695629risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 18
+RECAP: 
+sono infetti 450998
+Sono vivi in totale 482962
+Sono in quarantena 158303
+Sono morti 17038
+Sono in movimento 324659
+Ci sono 12387770risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 19
+RECAP: 
+sono infetti 428495
+Sono vivi in totale 460495
+Sono in quarantena 151409
+Sono morti 39505
+Sono in movimento 309086
+Ci sono 10975046risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+siren sound activated
+Sono allertato
+Entro nella fase 1
+Giorno 20
+RECAP: 
+sono infetti 398494
+Sono vivi in totale 430582
+Sono in quarantena 128213
+Sono morti 69418
+Sono in movimento 302369
+Ci sono 9704325risorse
+Salvi grazie alla logica del cromosoma per eccellenza.
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 45
+Giorno 21
+RECAP: 
+sono infetti 389515
+Sono vivi in totale 421856
+Sono in quarantena 119521
+Sono morti 78144
+Sono in movimento 302335
+Ci sono 8725378risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 44
+Giorno 22
+RECAP: 
+sono infetti 385096
+Sono vivi in totale 418143
+Sono in quarantena 115838
+Sono morti 81857
+Sono in movimento 302305
+Ci sono 7834344risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 44
+Giorno 23
+RECAP: 
+sono infetti 383187
+Sono vivi in totale 418143
+Sono in quarantena 115868
+Sono morti 81857
+Sono in movimento 302275
+Ci sono 6982084risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 47
+Giorno 24
+RECAP: 
+sono infetti 377886
+Sono vivi in totale 418143
+Sono in quarantena 115884
+Sono morti 81857
+Sono in movimento 302259
+Ci sono 6135107risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 45
+Giorno 25
+RECAP: 
+sono infetti 363491
+Sono vivi in totale 418143
+Sono in quarantena 115877
+Sono morti 81857
+Sono in movimento 302266
+Ci sono 5302541risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 35
+Giorno 26
+RECAP: 
+sono infetti 327897
+Sono vivi in totale 418143
+Sono in quarantena 115806
+Sono morti 81857
+Sono in movimento 302337
+Ci sono 4508232risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 23
+Giorno 27
+RECAP: 
+sono infetti 302541
+Sono vivi in totale 418143
+Sono in quarantena 115602
+Sono morti 81857
+Sono in movimento 302541
+Ci sono 3808644risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 7
+Giorno 28
+RECAP: 
+sono infetti 209011
+Sono vivi in totale 418143
+Sono in quarantena 115166
+Sono morti 81857
+Sono in movimento 302977
+Ci sono 3311406risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 2
+Giorno 29
+RECAP: 
+sono infetti 166096
+Sono vivi in totale 418143
+Sono in quarantena 114683
+Sono morti 81857
+Sono in movimento 303460
+Ci sono 3083641risorse
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 2
+Giorno 30
+RECAP: 
+sono infetti 141725
+Sono vivi in totale 418143
+Sono in quarantena 114194
+Sono morti 81857
+Sono in movimento 303949
+Ci sono 2933588risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 2
+Giorno 31
+RECAP: 
+sono infetti 141424
+Sono vivi in totale 418143
+Sono in quarantena 116110
+Sono morti 81857
+Sono in movimento 302033
+Ci sono 2793666risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 0
+Giorno 32
+RECAP: 
+sono infetti 142006
+Sono vivi in totale 418143
+Sono in quarantena 116689
+Sono morti 81857
+Sono in movimento 301454
+Ci sono 2643718risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 2
+Giorno 33
+RECAP: 
+sono infetti 142307
+Sono vivi in totale 416928
+Sono in quarantena 115496
+Sono morti 83072
+Sono in movimento 301432
+Ci sono 2489080risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 0
+Giorno 34
+RECAP: 
+sono infetti 143055
+Sono vivi in totale 416386
+Sono in quarantena 114731
+Sono morti 83614
+Sono in movimento 301655
+Ci sono 2344607risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 35
+RECAP: 
+sono infetti 145026
+Sono vivi in totale 416114
+Sono in quarantena 114209
+Sono morti 83886
+Sono in movimento 301905
+Ci sono 2203740risorse
+siren sound activated
+Sono allertato
+Entro nella fase 2
+Sono risultate positive al tampone 1
+Giorno 36
+RECAP: 
+sono infetti 146785
+Sono vivi in totale 416001
+Sono in quarantena 113827
+Sono morti 83999
+Sono in movimento 302174
+Ci sono 2064095risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 37
+RECAP: 
+sono infetti 147729
+Sono vivi in totale 415881
+Sono in quarantena 113937
+Sono morti 84119
+Sono in movimento 301944
+Ci sono 1925315risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 38
+RECAP: 
+sono infetti 41562
+Sono vivi in totale 415791
+Sono in quarantena 2659
+Sono morti 84209
+Sono in movimento 413132
+Ci sono 1785745risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 39
+RECAP: 
+sono infetti 43065
+Sono vivi in totale 415678
+Sono in quarantena 2677
+Sono morti 84322
+Sono in movimento 413001
+Ci sono 1756228risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 40
+RECAP: 
+sono infetti 44648
+Sono vivi in totale 415575
+Sono in quarantena 2767
+Sono morti 84425
+Sono in movimento 412808
+Ci sono 1726001risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 41
+RECAP: 
+sono infetti 28516
+Sono vivi in totale 415479
+Sono in quarantena 1691
+Sono morti 84521
+Sono in movimento 413788
+Ci sono 1694674risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 42
+RECAP: 
+sono infetti 21960
+Sono vivi in totale 415373
+Sono in quarantena 1270
+Sono morti 84627
+Sono in movimento 414103
+Ci sono 1674152risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 43
+RECAP: 
+sono infetti 18646
+Sono vivi in totale 415274
+Sono in quarantena 1128
+Sono morti 84726
+Sono in movimento 414146
+Ci sono 1658002risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 44
+RECAP: 
+sono infetti 16993
+Sono vivi in totale 415170
+Sono in quarantena 1071
+Sono morti 84830
+Sono in movimento 414099
+Ci sono 1643612risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 45
+RECAP: 
+sono infetti 15515
+Sono vivi in totale 415068
+Sono in quarantena 1012
+Sono morti 84932
+Sono in movimento 414056
+Ci sono 1630352risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 46
+RECAP: 
+sono infetti 14336
+Sono vivi in totale 414987
+Sono in quarantena 945
+Sono morti 85013
+Sono in movimento 414042
+Ci sono 1618382risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 47
+RECAP: 
+sono infetti 13148
+Sono vivi in totale 414923
+Sono in quarantena 832
+Sono morti 85077
+Sono in movimento 414091
+Ci sono 1607762risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 48
+RECAP: 
+sono infetti 11817
+Sono vivi in totale 414885
+Sono in quarantena 760
+Sono morti 85115
+Sono in movimento 414125
+Ci sono 1598362risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 49
+RECAP: 
+sono infetti 10863
+Sono vivi in totale 414854
+Sono in quarantena 661
+Sono morti 85146
+Sono in movimento 414193
+Ci sono 1589752risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 50
+RECAP: 
+sono infetti 9326
+Sono vivi in totale 414824
+Sono in quarantena 575
+Sono morti 85176
+Sono in movimento 414249
+Ci sono 1582242risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 51
+RECAP: 
+sono infetti 8080
+Sono vivi in totale 414810
+Sono in quarantena 492
+Sono morti 85190
+Sono in movimento 414318
+Ci sono 1575652risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 52
+RECAP: 
+sono infetti 6682
+Sono vivi in totale 414788
+Sono in quarantena 411
+Sono morti 85212
+Sono in movimento 414377
+Ci sono 1570032risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 53
+RECAP: 
+sono infetti 5399
+Sono vivi in totale 414769
+Sono in quarantena 344
+Sono morti 85231
+Sono in movimento 414425
+Ci sono 1565292risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 54
+RECAP: 
+sono infetti 4172
+Sono vivi in totale 414754
+Sono in quarantena 276
+Sono morti 85246
+Sono in movimento 414478
+Ci sono 1561292risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 55
+RECAP: 
+sono infetti 3466
+Sono vivi in totale 414736
+Sono in quarantena 220
+Sono morti 85264
+Sono in movimento 414516
+Ci sono 1558062risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 56
+RECAP: 
+sono infetti 2868
+Sono vivi in totale 414720
+Sono in quarantena 187
+Sono morti 85280
+Sono in movimento 414533
+Ci sono 1555552risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 57
+RECAP: 
+sono infetti 2471
+Sono vivi in totale 414709
+Sono in quarantena 170
+Sono morti 85291
+Sono in movimento 414539
+Ci sono 1553472risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 58
+RECAP: 
+sono infetti 2213
+Sono vivi in totale 414704
+Sono in quarantena 149
+Sono morti 85296
+Sono in movimento 414555
+Ci sono 1551552risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 59
+RECAP: 
+sono infetti 1895
+Sono vivi in totale 414699
+Sono in quarantena 121
+Sono morti 85301
+Sono in movimento 414578
+Ci sono 1549822risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 60
+RECAP: 
+sono infetti 1586
+Sono vivi in totale 414694
+Sono in quarantena 106
+Sono morti 85306
+Sono in movimento 414588
+Ci sono 1548462risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 61
+RECAP: 
+sono infetti 1338
+Sono vivi in totale 414686
+Sono in quarantena 87
+Sono morti 85314
+Sono in movimento 414599
+Ci sono 1547242risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 62
+RECAP: 
+sono infetti 1121
+Sono vivi in totale 414681
+Sono in quarantena 69
+Sono morti 85319
+Sono in movimento 414612
+Ci sono 1546222risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 63
+RECAP: 
+sono infetti 970
+Sono vivi in totale 414677
+Sono in quarantena 57
+Sono morti 85323
+Sono in movimento 414620
+Ci sono 1545402risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 64
+RECAP: 
+sono infetti 812
+Sono vivi in totale 414675
+Sono in quarantena 46
+Sono morti 85325
+Sono in movimento 414629
+Ci sono 1544752risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 65
+RECAP: 
+sono infetti 643
+Sono vivi in totale 414673
+Sono in quarantena 37
+Sono morti 85327
+Sono in movimento 414636
+Ci sono 1544222risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 66
+RECAP: 
+sono infetti 510
+Sono vivi in totale 414673
+Sono in quarantena 34
+Sono morti 85327
+Sono in movimento 414639
+Ci sono 1543782risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 67
+RECAP: 
+sono infetti 447
+Sono vivi in totale 414672
+Sono in quarantena 32
+Sono morti 85328
+Sono in movimento 414640
+Ci sono 1543372risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 68
+RECAP: 
+sono infetti 361
+Sono vivi in totale 414672
+Sono in quarantena 30
+Sono morti 85328
+Sono in movimento 414642
+Ci sono 1542962risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 69
+RECAP: 
+sono infetti 323
+Sono vivi in totale 414671
+Sono in quarantena 27
+Sono morti 85329
+Sono in movimento 414644
+Ci sono 1542612risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 70
+RECAP: 
+sono infetti 258
+Sono vivi in totale 414669
+Sono in quarantena 27
+Sono morti 85331
+Sono in movimento 414642
+Ci sono 1542322risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 71
+RECAP: 
+sono infetti 229
+Sono vivi in totale 414668
+Sono in quarantena 21
+Sono morti 85332
+Sono in movimento 414647
+Ci sono 1542042risorse
+Sono allertato
+Non sono allertato
+Giorno 72
+RECAP: 
+sono infetti 155
+Sono vivi in totale 414667
+Sono in quarantena 16
+Sono morti 85333
+Sono in movimento 414651
+Ci sono 1541832risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 73
+RECAP: 
+sono infetti 161
+Sono vivi in totale 414666
+Sono in quarantena 13
+Sono morti 85334
+Sono in movimento 414653
+Ci sono 1541662risorse
+Sono allertato
+Non sono allertato
+Giorno 74
+RECAP: 
+sono infetti 128
+Sono vivi in totale 414666
+Sono in quarantena 11
+Sono morti 85334
+Sono in movimento 414655
+Ci sono 1541532risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 75
+RECAP: 
+sono infetti 129
+Sono vivi in totale 414665
+Sono in quarantena 9
+Sono morti 85335
+Sono in movimento 414656
+Ci sono 1541412risorse
+Sono allertato
+Non sono allertato
+Giorno 76
+RECAP: 
+sono infetti 86
+Sono vivi in totale 414665
+Sono in quarantena 7
+Sono morti 85335
+Sono in movimento 414658
+Ci sono 1541322risorse
+Sono allertato
+Non sono allertato
+Giorno 77
+RECAP: 
+sono infetti 92
+Sono vivi in totale 414664
+Sono in quarantena 3
+Sono morti 85336
+Sono in movimento 414661
+Ci sono 1541252risorse
+Sono allertato
+Non sono allertato
+Giorno 78
+RECAP: 
+sono infetti 75
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541222risorse
+Sono allertato
+Non sono allertato
+Giorno 79
+RECAP: 
+sono infetti 53
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541212risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 80
+RECAP: 
+sono infetti 47
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541202risorse
+Sono allertato
+Non sono allertato
+Giorno 81
+RECAP: 
+sono infetti 60
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541192risorse
+Sono allertato
+Non sono allertato
+Giorno 82
+RECAP: 
+sono infetti 53
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541182risorse
+Sono allertato
+Non sono allertato
+Giorno 83
+RECAP: 
+sono infetti 32
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541172risorse
+Sono allertato
+Non sono allertato
+Giorno 84
+RECAP: 
+sono infetti 34
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541162risorse
+Sono allertato
+Non sono allertato
+Giorno 85
+RECAP: 
+sono infetti 34
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541152risorse
+Sono allertato
+Non sono allertato
+Giorno 86
+RECAP: 
+sono infetti 31
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541142risorse
+Sono allertato
+Non sono allertato
+Giorno 87
+RECAP: 
+sono infetti 31
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541132risorse
+Sono allertato
+Non sono allertato
+Giorno 88
+RECAP: 
+sono infetti 30
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541122risorse
+Sono allertato
+Non sono allertato
+Giorno 89
+RECAP: 
+sono infetti 17
+Sono vivi in totale 414664
+Sono in quarantena 1
+Sono morti 85336
+Sono in movimento 414663
+Ci sono 1541112risorse
+Sono allertato
+Non sono allertato
+Giorno 90
+RECAP: 
+sono infetti 23
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541102risorse
+Sono allertato
+Non sono allertato
+Giorno 91
+RECAP: 
+sono infetti 21
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541102risorse
+Sono allertato
+Non sono allertato
+Giorno 92
+RECAP: 
+sono infetti 13
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541102risorse
+Sono allertato
+Non sono allertato
+Giorno 93
+RECAP: 
+sono infetti 22
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541102risorse
+Sono allertato
+Non sono allertato
+Giorno 94
+RECAP: 
+sono infetti 22
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541102risorse
+Sono allertato
+Non sono allertato
+Giorno 95
+RECAP: 
+sono infetti 15
+Sono vivi in totale 414664
+Sono in quarantena 0
+Sono morti 85336
+Sono in movimento 414664
+Ci sono 1541082risorse
+siren sound activated
+Sono allertato
+Non sono allertato
+Giorno 96
+RECAP: 
+sono infetti 7
+Sono vivi in totale 414664
+Sono in quarantena 2
+Sono morti 85336
+Sono in movimento 414662
+Ci sono 1541062risorse
+Sono allertato
+Non sono allertato
+Giorno 97
+RECAP: 
+sono infetti 10
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1541042risorse
+Sono allertato
+Non sono allertato
+Giorno 98
+RECAP: 
+sono infetti 3
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1541032risorse
+Sono allertato
+Non sono allertato
+Giorno 99
+RECAP: 
+sono infetti 3
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1541022risorse
+Sono allertato
+Non sono allertato
+Giorno 100
+RECAP: 
+sono infetti 4
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1541012risorse
+Sono allertato
+Non sono allertato
+Giorno 101
+RECAP: 
+sono infetti 2
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1541002risorse
+Sono allertato
+Non sono allertato
+Giorno 102
+RECAP: 
+sono infetti 3
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1540992risorse
+Sono allertato
+Non sono allertato
+Giorno 103
+RECAP: 
+sono infetti 4
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1540982risorse
+Sono allertato
+Non sono allertato
+Giorno 104
+RECAP: 
+sono infetti 3
+Sono vivi in totale 414663
+Sono in quarantena 1
+Sono morti 85337
+Sono in movimento 414662
+Ci sono 1540972risorse
+Sono allertato
+Non sono allertato
+Giorno 105
+RECAP: 
+sono infetti 1
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Sono allertato
+Non sono allertato
+Giorno 106
+RECAP: 
+sono infetti 3
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Sono allertato
+Non sono allertato
+Giorno 107
+RECAP: 
+sono infetti 4
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Sono allertato
+Non sono allertato
+Giorno 108
+RECAP: 
+sono infetti 1
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Sono allertato
+Non sono allertato
+Giorno 109
+RECAP: 
+sono infetti 1
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Sono allertato
+Non sono allertato
+Giorno 110
+RECAP: 
+sono infetti 1
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Sono allertato
+Non sono allertato
+Giorno 111
+RECAP: 
+sono infetti 0
+Sono vivi in totale 414663
+Sono in quarantena 0
+Sono morti 85337
+Sono in movimento 414663
+Ci sono 1540962risorse
+Salvi!
+8484
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 6
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 17
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 57
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 159
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 435
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 1249
+Sono vivi in totale 500000
+Sono in quarantena 5
+Sono morti 0
+Sono in movimento 499995
+Ci sono 14999909risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 3374
+Sono vivi in totale 499998
+Sono in quarantena 13
+Sono morti 2
+Sono in movimento 499985
+Ci sono 14999719risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 9524
+Sono vivi in totale 499997
+Sono in quarantena 29
+Sono morti 3
+Sono in movimento 499968
+Ci sono 14999179risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 25777
+Sono vivi in totale 499989
+Sono in quarantena 90
+Sono morti 11
+Sono in movimento 499899
+Ci sono 14997669risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 68919
+Sono vivi in totale 499972
+Sono in quarantena 230
+Sono morti 28
+Sono in movimento 499742
+Ci sono 14993669risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 167264
+Sono vivi in totale 499919
+Sono in quarantena 685
+Sono morti 81
+Sono in movimento 499234
+Ci sono 14981899risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 332227
+Sono vivi in totale 499787
+Sono in quarantena 1870
+Sono morti 213
+Sono in movimento 497917
+Ci sono 14948719risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 466667
+Sono vivi in totale 499369
+Sono in quarantena 5002
+Sono morti 631
+Sono in movimento 494367
+Ci sono 14860599risorse
+siren sound activated
+prima ondata di scemi in quarantena
+Giorno 15
+RECAP: 
+sono infetti 465524
+Sono vivi in totale 498227
+Sono in quarantena 255773
+Sono morti 1773
+Sono in movimento 242454
+Ci sono 14627709risorse
+siren sound activated
+sono in allerta da 0
+Giorno 16
+RECAP: 
+sono infetti 462700
+Sono vivi in totale 495403
+Sono in quarantena 274775
+Sono morti 4597
+Sono in movimento 220628
+Ci sono 13996381risorse
+siren sound activated
+sono in allerta da 1
+Giorno 17
+RECAP: 
+sono infetti 455183
+Sono vivi in totale 487889
+Sono in quarantena 295856
+Sono morti 12111
+Sono in movimento 192033
+Ci sono 12948765risorse
+siren sound activated
+sono in allerta da 2
+Giorno 18
+RECAP: 
+sono infetti 438018
+Sono vivi in totale 470741
+Sono in quarantena 301998
+Sono morti 29259
+Sono in movimento 168743
+Ci sono 11484945risorse
+sono in allerta da 3
+Giorno 19
+RECAP: 
+sono infetti 409045
+Sono vivi in totale 441797
+Sono in quarantena 273054
+Sono morti 58203
+Sono in movimento 168743
+Ci sono 9980826risorse
+sono in allerta da 4
+Giorno 20
+RECAP: 
+sono infetti 385532
+Sono vivi in totale 418376
+Sono in quarantena 249633
+Sono morti 81624
+Sono in movimento 168743
+Ci sono 8766327risorse
+sono in allerta da 5
+Giorno 21
+RECAP: 
+sono infetti 385273
+Sono vivi in totale 418376
+Sono in quarantena 249633
+Sono morti 81624
+Sono in movimento 168743
+Ci sono 7786461risorse
+sono in allerta da 6
+seconda ondata di scemi in quarantena
+Giorno 22
+RECAP: 
+sono infetti 384620
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 6807783risorse
+sono in allerta da 7
+Giorno 23
+RECAP: 
+sono infetti 380998
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 5832730risorse
+sono in allerta da 8
+Giorno 24
+RECAP: 
+sono infetti 375707
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 4867352risorse
+sono in allerta da 9
+Giorno 25
+RECAP: 
+sono infetti 361642
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 3927849risorse
+sono in allerta da 10
+Giorno 26
+RECAP: 
+sono infetti 329702
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 3056629risorse
+sono in allerta da 11
+Giorno 27
+RECAP: 
+sono infetti 275944
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 2341280risorse
+sono in allerta da 12
+Giorno 28
+RECAP: 
+sono infetti 231964
+Sono vivi in totale 418376
+Sono in quarantena 249374
+Sono morti 81624
+Sono in movimento 169002
+Ci sono 1881270risorse
+sono in allerta da 13
+Giorno 29
+RECAP: 
+sono infetti 231964
+Sono vivi in totale 418376
+Sono in quarantena 0
+Sono morti 81624
+Sono in movimento 418376
+Ci sono 1631896risorse
+Giorno 30
+RECAP: 
+sono infetti 0
+Sono vivi in totale 418376
+Sono in quarantena 0
+Sono morti 81624
+Sono in movimento 418376
+Ci sono 1631896risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 9
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 13
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 67
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 134
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 483
+Sono vivi in totale 500000
+Sono in quarantena 4
+Sono morti 0
+Sono in movimento 499996
+Ci sono 14999949risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 1152
+Sono vivi in totale 500000
+Sono in quarantena 5
+Sono morti 0
+Sono in movimento 499995
+Ci sono 14999879risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 3545
+Sono vivi in totale 499998
+Sono in quarantena 11
+Sono morti 2
+Sono in movimento 499987
+Ci sono 14999639risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 9374
+Sono vivi in totale 499998
+Sono in quarantena 24
+Sono morti 2
+Sono in movimento 499974
+Ci sono 14999179risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 26386
+Sono vivi in totale 499989
+Sono in quarantena 89
+Sono morti 11
+Sono in movimento 499900
+Ci sono 14997459risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 69122
+Sono vivi in totale 499976
+Sono in quarantena 246
+Sono morti 24
+Sono in movimento 499730
+Ci sono 14993349risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 168574
+Sono vivi in totale 499913
+Sono in quarantena 689
+Sono morti 87
+Sono in movimento 499224
+Ci sono 14981379risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 333170
+Sono vivi in totale 499794
+Sono in quarantena 1875
+Sono morti 206
+Sono in movimento 497919
+Ci sono 14949879risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 467555
+Sono vivi in totale 499397
+Sono in quarantena 5009
+Sono morti 603
+Sono in movimento 494388
+Ci sono 14860909risorse
+siren sound activated
+prima ondata di scemi in quarantena
+Giorno 15
+RECAP: 
+sono infetti 466537
+Sono vivi in totale 498380
+Sono in quarantena 255842
+Sono morti 1620
+Sono in movimento 242538
+Ci sono 14627899risorse
+siren sound activated
+sono in allerta da 0
+Giorno 16
+RECAP: 
+sono infetti 463553
+Sono vivi in totale 495397
+Sono in quarantena 275208
+Sono morti 4603
+Sono in movimento 220189
+Ci sono 13991559risorse
+siren sound activated
+sono in allerta da 1
+Giorno 17
+RECAP: 
+sono infetti 456134
+Sono vivi in totale 487979
+Sono in quarantena 296702
+Sono morti 12021
+Sono in movimento 191277
+Ci sono 12935201risorse
+siren sound activated
+sono in allerta da 2
+Giorno 18
+RECAP: 
+sono infetti 438643
+Sono vivi in totale 470510
+Sono in quarantena 302762
+Sono morti 29490
+Sono in movimento 167748
+Ci sono 11459199risorse
+sono in allerta da 3
+Giorno 19
+RECAP: 
+sono infetti 409818
+Sono vivi in totale 441707
+Sono in quarantena 273959
+Sono morti 58293
+Sono in movimento 167748
+Ci sono 9945937risorse
+sono in allerta da 4
+Giorno 20
+RECAP: 
+sono infetti 386064
+Sono vivi in totale 418065
+Sono in quarantena 250317
+Sono morti 81935
+Sono in movimento 167748
+Ci sono 8720804risorse
+sono in allerta da 5
+Giorno 21
+RECAP: 
+sono infetti 385873
+Sono vivi in totale 418065
+Sono in quarantena 250317
+Sono morti 81935
+Sono in movimento 167748
+Ci sono 7732676risorse
+sono in allerta da 6
+seconda ondata di scemi in quarantena
+Giorno 22
+RECAP: 
+sono infetti 385078
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 6745718risorse
+sono in allerta da 7
+Giorno 23
+RECAP: 
+sono infetti 381385
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 5763610risorse
+sono in allerta da 8
+Giorno 24
+RECAP: 
+sono infetti 375759
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 4790664risorse
+sono in allerta da 9
+Giorno 25
+RECAP: 
+sono infetti 361794
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 3844088risorse
+sono in allerta da 10
+Giorno 26
+RECAP: 
+sono infetti 329629
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 2965318risorse
+sono in allerta da 11
+Giorno 27
+RECAP: 
+sono infetti 275999
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 2245596risorse
+sono in allerta da 12
+Giorno 28
+RECAP: 
+sono infetti 232123
+Sono vivi in totale 418065
+Sono in quarantena 249184
+Sono morti 81935
+Sono in movimento 168881
+Ci sono 1785407risorse
+sono in allerta da 13
+Giorno 29
+RECAP: 
+sono infetti 232123
+Sono vivi in totale 418065
+Sono in quarantena 0
+Sono morti 81935
+Sono in movimento 418065
+Ci sono 1536223risorse
+Giorno 30
+RECAP: 
+sono infetti 0
+Sono vivi in totale 418065
+Sono in quarantena 0
+Sono morti 81935
+Sono in movimento 418065
+Ci sono 1536223risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 10
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 15
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 62
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+siren sound activated
+Giorno 5
+RECAP: 
+sono infetti 156
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 424
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999949risorse
+Giorno 7
+RECAP: 
+sono infetti 1238
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999899risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 3378
+Sono vivi in totale 499999
+Sono in quarantena 12
+Sono morti 1
+Sono in movimento 499987
+Ci sono 14999659risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 9324
+Sono vivi in totale 499997
+Sono in quarantena 35
+Sono morti 3
+Sono in movimento 499962
+Ci sono 14999129risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 25492
+Sono vivi in totale 499986
+Sono in quarantena 82
+Sono morti 14
+Sono in movimento 499904
+Ci sono 14997579risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 68102
+Sono vivi in totale 499969
+Sono in quarantena 246
+Sono morti 31
+Sono in movimento 499723
+Ci sono 14993229risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 165018
+Sono vivi in totale 499922
+Sono in quarantena 665
+Sono morti 78
+Sono in movimento 499257
+Ci sono 14981609risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 329882
+Sono vivi in totale 499766
+Sono in quarantena 1772
+Sono morti 234
+Sono in movimento 497994
+Ci sono 14950029risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 465255
+Sono vivi in totale 499364
+Sono in quarantena 4873
+Sono morti 636
+Sono in movimento 494491
+Ci sono 14863729risorse
+siren sound activated
+prima ondata di scemi in quarantena
+Giorno 15
+RECAP: 
+sono infetti 464210
+Sono vivi in totale 498320
+Sono in quarantena 255729
+Sono morti 1680
+Sono in movimento 242591
+Ci sono 14632779risorse
+siren sound activated
+sono in allerta da 0
+Giorno 16
+RECAP: 
+sono infetti 461349
+Sono vivi in totale 495460
+Sono in quarantena 274485
+Sono morti 4540
+Sono in movimento 220975
+Ci sono 14005194risorse
+siren sound activated
+sono in allerta da 1
+Giorno 17
+RECAP: 
+sono infetti 453879
+Sono vivi in totale 487992
+Sono in quarantena 296143
+Sono morti 12008
+Sono in movimento 191849
+Ci sono 12957580risorse
+siren sound activated
+sono in allerta da 2
+Giorno 18
+RECAP: 
+sono infetti 436734
+Sono vivi in totale 470865
+Sono in quarantena 302789
+Sono morti 29135
+Sono in movimento 168076
+Ci sono 11488508risorse
+sono in allerta da 3
+Giorno 19
+RECAP: 
+sono infetti 407803
+Sono vivi in totale 441971
+Sono in quarantena 273895
+Sono morti 58029
+Sono in movimento 168076
+Ci sono 9975318risorse
+sono in allerta da 4
+Giorno 20
+RECAP: 
+sono infetti 383935
+Sono vivi in totale 418189
+Sono in quarantena 250113
+Sono morti 81811
+Sono in movimento 168076
+Ci sono 8751203risorse
+sono in allerta da 5
+Giorno 21
+RECAP: 
+sono infetti 383674
+Sono vivi in totale 418189
+Sono in quarantena 250113
+Sono morti 81811
+Sono in movimento 168076
+Ci sono 7765430risorse
+sono in allerta da 6
+seconda ondata di scemi in quarantena
+Giorno 22
+RECAP: 
+sono infetti 382956
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 6780872risorse
+sono in allerta da 7
+Giorno 23
+RECAP: 
+sono infetti 379440
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 5800276risorse
+sono in allerta da 8
+Giorno 24
+RECAP: 
+sono infetti 374162
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 4828851risorse
+sono in allerta da 9
+Giorno 25
+RECAP: 
+sono infetti 360404
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 3882932risorse
+sono in allerta da 10
+Giorno 26
+RECAP: 
+sono infetti 328968
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 3004954risorse
+sono in allerta da 11
+Giorno 27
+RECAP: 
+sono infetti 275387
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 2279751risorse
+sono in allerta da 12
+Giorno 28
+RECAP: 
+sono infetti 231253
+Sono vivi in totale 418189
+Sono in quarantena 249328
+Sono morti 81811
+Sono in movimento 168861
+Ci sono 1815044risorse
+sono in allerta da 13
+Giorno 29
+RECAP: 
+sono infetti 231253
+Sono vivi in totale 418189
+Sono in quarantena 0
+Sono morti 81811
+Sono in movimento 418189
+Ci sono 1565716risorse
+Giorno 30
+RECAP: 
+sono infetti 0
+Sono vivi in totale 418189
+Sono in quarantena 0
+Sono morti 81811
+Sono in movimento 418189
+Ci sono 1565716risorse
+Salvi!
+8484
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 3
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 7
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 21
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 56
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 6
+RECAP: 
+sono infetti 145
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 440
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999949risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 1153
+Sono vivi in totale 500000
+Sono in quarantena 4
+Sono morti 0
+Sono in movimento 499996
+Ci sono 14999859risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 3369
+Sono vivi in totale 499998
+Sono in quarantena 11
+Sono morti 2
+Sono in movimento 499987
+Ci sono 14999689risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 9131
+Sono vivi in totale 499996
+Sono in quarantena 25
+Sono morti 4
+Sono in movimento 499971
+Ci sono 14999259risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 25361
+Sono vivi in totale 499993
+Sono in quarantena 77
+Sono morti 7
+Sono in movimento 499916
+Ci sono 14997849risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 67377
+Sono vivi in totale 499982
+Sono in quarantena 232
+Sono morti 18
+Sono in movimento 499750
+Ci sono 14993899risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 164858
+Sono vivi in totale 499934
+Sono in quarantena 624
+Sono morti 66
+Sono in movimento 499310
+Ci sono 14982359risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 328766
+Sono vivi in totale 499795
+Sono in quarantena 1740
+Sono morti 205
+Sono in movimento 498055
+Ci sono 14951639risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 465465
+Sono vivi in totale 499384
+Sono in quarantena 4896
+Sono morti 616
+Sono in movimento 494488
+Ci sono 14865619risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 16
+RECAP: 
+sono infetti 480873
+Sono vivi in totale 482382
+Sono in quarantena 0
+Sono morti 17618
+Sono in movimento 482382
+Ci sono 14638719risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 17
+RECAP: 
+sono infetti 457416
+Sono vivi in totale 457439
+Sono in quarantena 0
+Sono morti 42561
+Sono in movimento 457439
+Ci sono 14218399risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 18
+RECAP: 
+sono infetti 414615
+Sono vivi in totale 414615
+Sono in quarantena 0
+Sono morti 85385
+Sono in movimento 414615
+Ci sono 13458149risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 19
+RECAP: 
+sono infetti 367050
+Sono vivi in totale 367050
+Sono in quarantena 0
+Sono morti 132950
+Sono in movimento 367050
+Ci sono 12653519risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 20
+RECAP: 
+sono infetti 335293
+Sono vivi in totale 335293
+Sono in quarantena 0
+Sono morti 164707
+Sono in movimento 335293
+Ci sono 12214529risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 329087
+Sono vivi in totale 329368
+Sono in quarantena 8196
+Sono morti 170632
+Sono in movimento 321172
+Ci sono 12050429risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 22
+RECAP: 
+sono infetti 313385
+Sono vivi in totale 313393
+Sono in quarantena 0
+Sono morti 186607
+Sono in movimento 313393
+Ci sono 11899929risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 311681
+Sono vivi in totale 313339
+Sono in quarantena 1658
+Sono morti 186661
+Sono in movimento 311681
+Ci sono 11866479risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 310843
+Sono vivi in totale 313337
+Sono in quarantena 2494
+Sono morti 186663
+Sono in movimento 310843
+Ci sono 11833039risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 310421
+Sono vivi in totale 313337
+Sono in quarantena 2916
+Sono morti 186663
+Sono in movimento 310421
+Ci sono 11799649risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 310249
+Sono vivi in totale 313337
+Sono in quarantena 3088
+Sono morti 186663
+Sono in movimento 310249
+Ci sono 11766389risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 309545
+Sono vivi in totale 313337
+Sono in quarantena 2929
+Sono morti 186663
+Sono in movimento 310408
+Ci sono 11733659risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 276556
+Sono vivi in totale 313337
+Sono in quarantena 2095
+Sono morti 186663
+Sono in movimento 311242
+Ci sono 11703679risorse
+siren sound activated
+Giorno 29
+RECAP: 
+sono infetti 107324
+Sono vivi in totale 313337
+Sono in quarantena 733
+Sono morti 186663
+Sono in movimento 312604
+Ci sono 11682609risorse
+Giorno 30
+RECAP: 
+sono infetti 6256
+Sono vivi in totale 313337
+Sono in quarantena 47
+Sono morti 186663
+Sono in movimento 313290
+Ci sono 11675279risorse
+Giorno 31
+RECAP: 
+sono infetti 96
+Sono vivi in totale 313337
+Sono in quarantena 1
+Sono morti 186663
+Sono in movimento 313336
+Ci sono 11674809risorse
+Giorno 32
+RECAP: 
+sono infetti 0
+Sono vivi in totale 313337
+Sono in quarantena 0
+Sono morti 186663
+Sono in movimento 313337
+Ci sono 11674799risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 8
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 11
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 53
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 113
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 416
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999959risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 962
+Sono vivi in totale 500000
+Sono in quarantena 3
+Sono morti 0
+Sono in movimento 499997
+Ci sono 14999919risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 3004
+Sono vivi in totale 499998
+Sono in quarantena 7
+Sono morti 2
+Sono in movimento 499991
+Ci sono 14999779risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 7899
+Sono vivi in totale 499998
+Sono in quarantena 22
+Sono morti 2
+Sono in movimento 499976
+Ci sono 14999449risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 22510
+Sono vivi in totale 499995
+Sono in quarantena 73
+Sono morti 5
+Sono in movimento 499922
+Ci sono 14998119risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 59244
+Sono vivi in totale 499982
+Sono in quarantena 179
+Sono morti 18
+Sono in movimento 499803
+Ci sono 14995009risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 148300
+Sono vivi in totale 499933
+Sono in quarantena 530
+Sono morti 67
+Sono in movimento 499403
+Ci sono 14985179risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 304753
+Sono vivi in totale 499843
+Sono in quarantena 1540
+Sono morti 157
+Sono in movimento 498303
+Ci sono 14958869risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 453876
+Sono vivi in totale 499474
+Sono in quarantena 4237
+Sono morti 526
+Sono in movimento 495237
+Ci sono 14883779risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 15
+RECAP: 
+sono infetti 481716
+Sono vivi in totale 484150
+Sono in quarantena 0
+Sono morti 15850
+Sono in movimento 484150
+Ci sono 14684879risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 16
+RECAP: 
+sono infetti 461368
+Sono vivi in totale 461401
+Sono in quarantena 0
+Sono morti 38599
+Sono in movimento 461401
+Ci sono 14302599risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 17
+RECAP: 
+sono infetti 420944
+Sono vivi in totale 420944
+Sono in quarantena 0
+Sono morti 79056
+Sono in movimento 420944
+Ci sono 13586549risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 18
+RECAP: 
+sono infetti 372535
+Sono vivi in totale 372535
+Sono in quarantena 0
+Sono morti 127465
+Sono in movimento 372535
+Ci sono 12756149risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 19
+RECAP: 
+sono infetti 338279
+Sono vivi in totale 338280
+Sono in quarantena 0
+Sono morti 161720
+Sono in movimento 338280
+Ci sono 12264949risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 331713
+Sono vivi in totale 331982
+Sono in quarantena 9436
+Sono morti 168018
+Sono in movimento 322546
+Ci sono 12076489risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 21
+RECAP: 
+sono infetti 313942
+Sono vivi in totale 313949
+Sono in quarantena 0
+Sono morti 186051
+Sono in movimento 313949
+Ci sono 11906039risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 311980
+Sono vivi in totale 313846
+Sono in quarantena 1866
+Sono morti 186154
+Sono in movimento 311980
+Ci sono 11869349risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 311086
+Sono vivi in totale 313842
+Sono in quarantena 2756
+Sono morti 186158
+Sono in movimento 311086
+Ci sono 11832699risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 310663
+Sono vivi in totale 313842
+Sono in quarantena 3179
+Sono morti 186158
+Sono in movimento 310663
+Ci sono 11796099risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 310476
+Sono vivi in totale 313842
+Sono in quarantena 3366
+Sono morti 186158
+Sono in movimento 310476
+Ci sono 11759609risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 310578
+Sono vivi in totale 313842
+Sono in quarantena 3264
+Sono morti 186158
+Sono in movimento 310578
+Ci sono 11723709risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 286801
+Sono vivi in totale 313842
+Sono in quarantena 2518
+Sono morti 186158
+Sono in movimento 311324
+Ci sono 11690109risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 135747
+Sono vivi in totale 313842
+Sono in quarantena 982
+Sono morti 186158
+Sono in movimento 312860
+Ci sono 11664789risorse
+Giorno 29
+RECAP: 
+sono infetti 9444
+Sono vivi in totale 313842
+Sono in quarantena 125
+Sono morti 186158
+Sono in movimento 313717
+Ci sono 11654969risorse
+Giorno 30
+RECAP: 
+sono infetti 135
+Sono vivi in totale 313842
+Sono in quarantena 5
+Sono morti 186158
+Sono in movimento 313837
+Ci sono 11653719risorse
+Giorno 31
+RECAP: 
+sono infetti 0
+Sono vivi in totale 313842
+Sono in quarantena 0
+Sono morti 186158
+Sono in movimento 313842
+Ci sono 11653669risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 7
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 14
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 43
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 131
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 326
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 955
+Sono vivi in totale 500000
+Sono in quarantena 4
+Sono morti 0
+Sono in movimento 499996
+Ci sono 14999929risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 2557
+Sono vivi in totale 500000
+Sono in quarantena 9
+Sono morti 0
+Sono in movimento 499991
+Ci sono 14999799risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 7411
+Sono vivi in totale 499998
+Sono in quarantena 22
+Sono morti 2
+Sono in movimento 499976
+Ci sono 14999459risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 19946
+Sono vivi in totale 499994
+Sono in quarantena 50
+Sono morti 6
+Sono in movimento 499944
+Ci sono 14998509risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 54297
+Sono vivi in totale 499978
+Sono in quarantena 177
+Sono morti 22
+Sono in movimento 499801
+Ci sono 14995249risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 135227
+Sono vivi in totale 499943
+Sono in quarantena 508
+Sono morti 57
+Sono in movimento 499435
+Ci sono 14986399risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 287786
+Sono vivi in totale 499811
+Sono in quarantena 1406
+Sono morti 189
+Sono in movimento 498405
+Ci sono 14961059risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 443664
+Sono vivi in totale 499520
+Sono in quarantena 3822
+Sono morti 480
+Sono in movimento 495698
+Ci sono 14894199risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 15
+RECAP: 
+sono infetti 481488
+Sono vivi in totale 485179
+Sono in quarantena 0
+Sono morti 14821
+Sono in movimento 485179
+Ci sono 14710389risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 16
+RECAP: 
+sono infetti 464278
+Sono vivi in totale 464346
+Sono in quarantena 0
+Sono morti 35654
+Sono in movimento 464346
+Ci sono 14362769risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 17
+RECAP: 
+sono infetti 425576
+Sono vivi in totale 425577
+Sono in quarantena 0
+Sono morti 74423
+Sono in movimento 425577
+Ci sono 13676739risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 18
+RECAP: 
+sono infetti 376888
+Sono vivi in totale 376888
+Sono in quarantena 0
+Sono morti 123112
+Sono in movimento 376888
+Ci sono 12835339risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 19
+RECAP: 
+sono infetti 341051
+Sono vivi in totale 341052
+Sono in quarantena 0
+Sono morti 158948
+Sono in movimento 341052
+Ci sono 12305939risorse
+siren sound activated
+AMMAZZO TUTTI. SPARO A VISTA
+Giorno 20
+RECAP: 
+sono infetti 320979
+Sono vivi in totale 320981
+Sono in quarantena 0
+Sono morti 179019
+Sono in movimento 320981
+Ci sono 12096909risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 318254
+Sono vivi in totale 318856
+Sono in quarantena 4060
+Sono morti 181144
+Sono in movimento 314796
+Ci sono 12014489risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 316974
+Sono vivi in totale 318558
+Sono in quarantena 5929
+Sono morti 181442
+Sono in movimento 312629
+Ci sono 11933399risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 313935
+Sono vivi in totale 318548
+Sono in quarantena 6926
+Sono morti 181452
+Sono in movimento 311622
+Ci sono 11853979risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 311152
+Sono vivi in totale 318548
+Sono in quarantena 7396
+Sono morti 181452
+Sono in movimento 311152
+Ci sono 11774679risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 310989
+Sono vivi in totale 318548
+Sono in quarantena 7559
+Sono morti 181452
+Sono in movimento 310989
+Ci sono 11695589risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 311254
+Sono vivi in totale 318548
+Sono in quarantena 7294
+Sono morti 181452
+Sono in movimento 311254
+Ci sono 11617629risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 296785
+Sono vivi in totale 318548
+Sono in quarantena 5808
+Sono morti 181452
+Sono in movimento 312740
+Ci sono 11543779risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 158550
+Sono vivi in totale 318548
+Sono in quarantena 2559
+Sono morti 181452
+Sono in movimento 315989
+Ci sono 11485429risorse
+Giorno 29
+RECAP: 
+sono infetti 14514
+Sono vivi in totale 318548
+Sono in quarantena 302
+Sono morti 181452
+Sono in movimento 318246
+Ci sono 11459839risorse
+Giorno 30
+RECAP: 
+sono infetti 330
+Sono vivi in totale 318548
+Sono in quarantena 7
+Sono morti 181452
+Sono in movimento 318541
+Ci sono 11456819risorse
+Giorno 31
+RECAP: 
+sono infetti 7
+Sono vivi in totale 318548
+Sono in quarantena 0
+Sono morti 181452
+Sono in movimento 318548
+Ci sono 11456749risorse
+Giorno 32
+RECAP: 
+sono infetti 0
+Sono vivi in totale 318548
+Sono in quarantena 0
+Sono morti 181452
+Sono in movimento 318548
+Ci sono 11456749risorse
+Salvi!
+8484
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 4
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 11
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 30
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 95
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 6
+RECAP: 
+sono infetti 244
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 737
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 1897
+Sono vivi in totale 500000
+Sono in quarantena 3
+Sono morti 0
+Sono in movimento 499997
+Ci sono 14999909risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 5616
+Sono vivi in totale 499999
+Sono in quarantena 13
+Sono morti 1
+Sono in movimento 499986
+Ci sono 14999599risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 15033
+Sono vivi in totale 499995
+Sono in quarantena 44
+Sono morti 5
+Sono in movimento 499951
+Ci sono 14998729risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 41656
+Sono vivi in totale 499980
+Sono in quarantena 138
+Sono morti 20
+Sono in movimento 499842
+Ci sono 14996079risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 106117
+Sono vivi in totale 499940
+Sono in quarantena 362
+Sono morti 60
+Sono in movimento 499578
+Ci sono 14989549risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 240055
+Sono vivi in totale 499858
+Sono in quarantena 1080
+Sono morti 142
+Sono in movimento 498778
+Ci sono 14970739risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 408849
+Sono vivi in totale 499654
+Sono in quarantena 2888
+Sono morti 346
+Sono in movimento 496766
+Ci sono 14920369risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 490174
+Sono vivi in totale 499017
+Sono in quarantena 8038
+Sono morti 983
+Sono in movimento 490979
+Ci sono 14780109risorse
+siren sound activated
+Giorno 16
+RECAP: 
+sono infetti 488475
+Sono vivi in totale 497322
+Sono in quarantena 20513
+Sono morti 2678
+Sono in movimento 476809
+Ci sono 14422629risorse
+siren sound activated
+Giorno 17
+RECAP: 
+sono infetti 483810
+Sono vivi in totale 492663
+Sono in quarantena 46929
+Sono morti 7337
+Sono in movimento 445734
+Ci sono 13622139risorse
+siren sound activated
+Giorno 18
+RECAP: 
+sono infetti 472630
+Sono vivi in totale 481498
+Sono in quarantena 168250
+Sono morti 18502
+Sono in movimento 313248
+Ci sono 11991349risorse
+siren sound activated
+Giorno 19
+RECAP: 
+sono infetti 449199
+Sono vivi in totale 458100
+Sono in quarantena 235665
+Sono morti 41900
+Sono in movimento 222435
+Ci sono 10275026risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 419460
+Sono vivi in totale 428437
+Sono in quarantena 262574
+Sono morti 71563
+Sono in movimento 165863
+Ci sono 8735433risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 404829
+Sono vivi in totale 414016
+Sono in quarantena 285727
+Sono morti 85984
+Sono in movimento 128289
+Ci sono 7459306risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 404315
+Sono vivi in totale 414016
+Sono in quarantena 311945
+Sono morti 85984
+Sono in movimento 102071
+Ci sono 6303214risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 402928
+Sono vivi in totale 414016
+Sono in quarantena 329923
+Sono morti 85984
+Sono in movimento 84093
+Ci sono 5143104risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 399149
+Sono vivi in totale 414016
+Sono in quarantena 339033
+Sono morti 85984
+Sono in movimento 74983
+Ci sono 3984501risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 389828
+Sono vivi in totale 424096
+Sono in quarantena 171821
+Sono morti 85984
+Sono in movimento 252275
+Ci sono 2837888risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 317498
+Sono vivi in totale 424096
+Sono in quarantena 119343
+Sono morti 85984
+Sono in movimento 304753
+Ci sono 1813741risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 206876
+Sono vivi in totale 424096
+Sono in quarantena 70209
+Sono morti 85984
+Sono in movimento 353887
+Ci sono 903500risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 67541
+Sono vivi in totale 424096
+Sono in quarantena 54694
+Sono morti 85984
+Sono in movimento 369402
+Ci sono 2147420529risorse
+Giorno 29
+RECAP: 
+sono infetti 0
+Sono vivi in totale 424096
+Sono in quarantena 0
+Sono morti 85984
+Sono in movimento 424096
+Ci sono 2146986707risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 8
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 12
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 62
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 118
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 6
+RECAP: 
+sono infetti 433
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999989risorse
+Giorno 7
+RECAP: 
+sono infetti 1040
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999979risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 3300
+Sono vivi in totale 499999
+Sono in quarantena 9
+Sono morti 1
+Sono in movimento 499990
+Ci sono 14999839risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 8612
+Sono vivi in totale 499999
+Sono in quarantena 22
+Sono morti 1
+Sono in movimento 499977
+Ci sono 14999539risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 24786
+Sono vivi in totale 499995
+Sono in quarantena 76
+Sono morti 5
+Sono in movimento 499919
+Ci sono 14998199risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 64495
+Sono vivi in totale 499989
+Sono in quarantena 204
+Sono morti 11
+Sono in movimento 499785
+Ci sono 14994839risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 159979
+Sono vivi in totale 499936
+Sono in quarantena 611
+Sono morti 64
+Sono in movimento 499325
+Ci sono 14983959risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 321210
+Sono vivi in totale 499836
+Sono in quarantena 1688
+Sono morti 164
+Sono in movimento 498148
+Ci sono 14954729risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 462107
+Sono vivi in totale 499454
+Sono in quarantena 4689
+Sono morti 546
+Sono in movimento 494765
+Ci sono 14870429risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 486123
+Sono vivi in totale 498505
+Sono in quarantena 12382
+Sono morti 1495
+Sono in movimento 486123
+Ci sono 14653579risorse
+siren sound activated
+Giorno 16
+RECAP: 
+sono infetti 483265
+Sono vivi in totale 495654
+Sono in quarantena 30789
+Sono morti 4346
+Sono in movimento 464865
+Ci sono 14116099risorse
+siren sound activated
+Giorno 17
+RECAP: 
+sono infetti 476362
+Sono vivi in totale 488755
+Sono in quarantena 63553
+Sono morti 11245
+Sono in movimento 425202
+Ci sono 13048609risorse
+siren sound activated
+Giorno 18
+RECAP: 
+sono infetti 459453
+Sono vivi in totale 471892
+Sono in quarantena 173598
+Sono morti 28108
+Sono in movimento 298294
+Ci sono 11297505risorse
+siren sound activated
+Giorno 19
+RECAP: 
+sono infetti 430953
+Sono vivi in totale 443421
+Sono in quarantena 225776
+Sono morti 56579
+Sono in movimento 217645
+Ci sono 9666331risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 405972
+Sono vivi in totale 418599
+Sono in quarantena 252855
+Sono morti 81401
+Sono in movimento 165744
+Ci sono 8278766risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 401331
+Sono vivi in totale 414265
+Sono in quarantena 283546
+Sono morti 85735
+Sono in movimento 130719
+Ci sono 7099767risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 400473
+Sono vivi in totale 414265
+Sono in quarantena 308478
+Sono morti 85735
+Sono in movimento 105787
+Ci sono 5952514risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 398165
+Sono vivi in totale 414265
+Sono in quarantena 325015
+Sono morti 85735
+Sono in movimento 89250
+Ci sono 4802952risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 392411
+Sono vivi in totale 414265
+Sono in quarantena 329026
+Sono morti 85735
+Sono in movimento 85239
+Ci sono 3658098risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 376939
+Sono vivi in totale 429035
+Sono in quarantena 161565
+Sono morti 85735
+Sono in movimento 267470
+Ci sono 2537749risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 269948
+Sono vivi in totale 429035
+Sono in quarantena 101667
+Sono morti 85735
+Sono in movimento 327368
+Ci sono 1596487risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 137088
+Sono vivi in totale 429035
+Sono in quarantena 46284
+Sono morti 85735
+Sono in movimento 382751
+Ci sono 797376risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 20631
+Sono vivi in totale 429035
+Sono in quarantena 16748
+Sono morti 85735
+Sono in movimento 412287
+Ci sono 2147397508risorse
+Giorno 29
+RECAP: 
+sono infetti 0
+Sono vivi in totale 429035
+Sono in quarantena 0
+Sono morti 85735
+Sono in movimento 429035
+Ci sono 2147040131risorse
+Salvi!
+8484
+Giorno 1
+RECAP: 
+sono infetti 1
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 2
+RECAP: 
+sono infetti 10
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 3
+RECAP: 
+sono infetti 13
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 4
+RECAP: 
+sono infetti 67
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+Giorno 5
+RECAP: 
+sono infetti 134
+Sono vivi in totale 500000
+Sono in quarantena 0
+Sono morti 0
+Sono in movimento 500000
+Ci sono 14999999risorse
+siren sound activated
+Giorno 6
+RECAP: 
+sono infetti 469
+Sono vivi in totale 500000
+Sono in quarantena 1
+Sono morti 0
+Sono in movimento 499999
+Ci sono 14999979risorse
+siren sound activated
+Giorno 7
+RECAP: 
+sono infetti 1147
+Sono vivi in totale 500000
+Sono in quarantena 2
+Sono morti 0
+Sono in movimento 499998
+Ci sono 14999939risorse
+siren sound activated
+Giorno 8
+RECAP: 
+sono infetti 3428
+Sono vivi in totale 500000
+Sono in quarantena 14
+Sono morti 0
+Sono in movimento 499986
+Ci sono 14999679risorse
+siren sound activated
+Giorno 9
+RECAP: 
+sono infetti 9010
+Sono vivi in totale 500000
+Sono in quarantena 35
+Sono morti 0
+Sono in movimento 499965
+Ci sono 14999209risorse
+siren sound activated
+Giorno 10
+RECAP: 
+sono infetti 25300
+Sono vivi in totale 499988
+Sono in quarantena 92
+Sono morti 12
+Sono in movimento 499896
+Ci sono 14997659risorse
+siren sound activated
+Giorno 11
+RECAP: 
+sono infetti 66250
+Sono vivi in totale 499978
+Sono in quarantena 227
+Sono morti 22
+Sono in movimento 499751
+Ci sono 14993869risorse
+siren sound activated
+Giorno 12
+RECAP: 
+sono infetti 162824
+Sono vivi in totale 499930
+Sono in quarantena 650
+Sono morti 70
+Sono in movimento 499280
+Ci sono 14982479risorse
+siren sound activated
+Giorno 13
+RECAP: 
+sono infetti 325572
+Sono vivi in totale 499817
+Sono in quarantena 1737
+Sono morti 183
+Sono in movimento 498080
+Ci sono 14952219risorse
+siren sound activated
+Giorno 14
+RECAP: 
+sono infetti 464129
+Sono vivi in totale 499417
+Sono in quarantena 4853
+Sono morti 583
+Sono in movimento 494564
+Ci sono 14867249risorse
+siren sound activated
+Giorno 15
+RECAP: 
+sono infetti 485517
+Sono vivi in totale 498421
+Sono in quarantena 12904
+Sono morti 1579
+Sono in movimento 485517
+Ci sono 14643829risorse
+siren sound activated
+Giorno 16
+RECAP: 
+sono infetti 482700
+Sono vivi in totale 495614
+Sono in quarantena 31603
+Sono morti 4386
+Sono in movimento 464011
+Ci sono 14097079risorse
+siren sound activated
+Giorno 17
+RECAP: 
+sono infetti 475465
+Sono vivi in totale 488382
+Sono in quarantena 64073
+Sono morti 11618
+Sono in movimento 424309
+Ci sono 13021219risorse
+siren sound activated
+Giorno 18
+RECAP: 
+sono infetti 458646
+Sono vivi in totale 471605
+Sono in quarantena 173981
+Sono morti 28395
+Sono in movimento 297624
+Ci sono 11269637risorse
+siren sound activated
+Giorno 19
+RECAP: 
+sono infetti 430207
+Sono vivi in totale 443199
+Sono in quarantena 225570
+Sono morti 56801
+Sono in movimento 217629
+Ci sono 9643567risorse
+siren sound activated
+Giorno 20
+RECAP: 
+sono infetti 405652
+Sono vivi in totale 418803
+Sono in quarantena 252565
+Sono morti 81197
+Sono in movimento 166238
+Ci sono 8263566risorse
+siren sound activated
+Giorno 21
+RECAP: 
+sono infetti 401393
+Sono vivi in totale 414911
+Sono in quarantena 283497
+Sono morti 85089
+Sono in movimento 131414
+Ci sono 7087265risorse
+siren sound activated
+Giorno 22
+RECAP: 
+sono infetti 400474
+Sono vivi in totale 414911
+Sono in quarantena 308541
+Sono morti 85089
+Sono in movimento 106370
+Ci sono 5939047risorse
+siren sound activated
+Giorno 23
+RECAP: 
+sono infetti 398152
+Sono vivi in totale 414911
+Sono in quarantena 325047
+Sono morti 85089
+Sono in movimento 89864
+Ci sono 4788501risorse
+siren sound activated
+Giorno 24
+RECAP: 
+sono infetti 392238
+Sono vivi in totale 414911
+Sono in quarantena 328940
+Sono morti 85089
+Sono in movimento 85971
+Ci sono 3642536risorse
+siren sound activated
+Giorno 25
+RECAP: 
+sono infetti 376360
+Sono vivi in totale 430088
+Sono in quarantena 161217
+Sono morti 85089
+Sono in movimento 268871
+Ci sono 2521292risorse
+siren sound activated
+Giorno 26
+RECAP: 
+sono infetti 267508
+Sono vivi in totale 430088
+Sono in quarantena 101080
+Sono morti 85089
+Sono in movimento 329008
+Ci sono 1584543risorse
+siren sound activated
+Giorno 27
+RECAP: 
+sono infetti 133053
+Sono vivi in totale 430088
+Sono in quarantena 45538
+Sono morti 85089
+Sono in movimento 384550
+Ci sono 790058risorse
+siren sound activated
+Giorno 28
+RECAP: 
+sono infetti 18491
+Sono vivi in totale 430088
+Sono in quarantena 15004
+Sono morti 85089
+Sono in movimento 415084
+Ci sono 2147333708risorse
+Giorno 29
+RECAP: 
+sono infetti 0
+Sono vivi in totale 430088
+Sono in quarantena 0
+Sono morti 85089
+Sono in movimento 430088
+Ci sono 2146979659risorse
+Salvi!
+8484
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Stampo tutti i bollettini di Base:
+Bollettino n.1: 
+MALATTIA DEBELLATA
+Sono morte 87305
+87305
+Bollettino n.2: 
+MALATTIA DEBELLATA
+Sono morte 87391
+87391
+Bollettino n.3: 
+MALATTIA DEBELLATA
+Sono morte 87476
+87476
+
+Simulazioni effettuate: 3
+La media dei morti e' 87390
+La media dei vivi e' 412609
+La media dei risorse e' 412609
+
+Stampo tutti i bollettini di cenciarelli:
+Bollettino n.1: 
+MALATTIA DEBELLATA
+Sono morte 85485
+85485
+Bollettino n.2: 
+MALATTIA DEBELLATA
+Sono morte 85550
+85550
+Bollettino n.3: 
+MALATTIA DEBELLATA
+Sono morte 85337
+85337
+
+Simulazioni effettuate: 3
+La media dei morti e' 85457
+La media dei vivi e' 414542
+La media dei risorse e' 1505706
+
+Stampo tutti i bollettini di Tirchio:
+Bollettino n.1: 
+MALATTIA DEBELLATA
+Sono morte 81624
+81624
+Bollettino n.2: 
+MALATTIA DEBELLATA
+Sono morte 81935
+81935
+Bollettino n.3: 
+MALATTIA DEBELLATA
+Sono morte 81811
+81811
+
+Simulazioni effettuate: 3
+La media dei morti e' 81790
+La media dei vivi e' 418210
+La media dei risorse e' 1577945
+
+Stampo tutti i bollettini di Korea:
+Bollettino n.1: 
+MALATTIA DEBELLATA
+Sono morte 186663
+186663
+Bollettino n.2: 
+MALATTIA DEBELLATA
+Sono morte 186158
+186158
+Bollettino n.3: 
+MALATTIA DEBELLATA
+Sono morte 181452
+181452
+
+Simulazioni effettuate: 3
+La media dei morti e' 184757
+La media dei vivi e' 315242
+La media dei morti e' 11595072
+
+Stampo tutti i bollettini di Nunzia:
+Bollettino n.1: 
+MALATTIA DEBELLATA
+Sono morte 85984
+85984
+Bollettino n.2: 
+MALATTIA DEBELLATA
+Sono morte 85735
+85735
+Bollettino n.3: 
+MALATTIA DEBELLATA
+Sono morte 85089
+85089
+
+Simulazioni effettuate: 3
+La media dei morti e' 85602
+La media dei vivi e' 427739
+La media dei risorse e' 2147002165
