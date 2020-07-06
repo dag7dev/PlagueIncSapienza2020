@@ -1,5 +1,5 @@
 # PlagueIncSapienza2020
-Una copia di Plauge Inc.
+Un simulatore epidemiologico realizzato nel 2020 per il corso "Metodologie di Programmazione"
 
 Lavoro realizzato da:
 - Damiano "dag7" Gualandri (aka dag7dev)
